@@ -1,0 +1,2043 @@
+{
+  "nm0924508": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Allen & Betty",
+      "Betty White Ludden"
+    ],
+    "disambiguation": "I",
+    "id": "/name/nm0924508/",
+    "image": {
+      "height": 400,
+      "id": "/name/nm0924508/images/rm1049595136",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA2OTA5NTUyMF5BMl5BanBnXkFtZTcwNjMwNzYzMw@@._V1_.jpg",
+      "width": 296
+    },
+    "legacyNameText": "White, Betty (I)",
+    "name": "Betty White",
+    "birthDate": "1922-01-17",
+    "birthPlace": "Oak Park, Illinois, USA",
+    "deathCause": "cerebrovascular accident",
+    "deathDate": "2021-12-31",
+    "deathPlace": "Los Angeles, California, USA",
+    "gender": "female",
+    "heightCentimeters": 162.56,
+    "isDead": true,
+    "nicknames": [
+      "Grand Dame of Television",
+      "Queen of Television",
+      "Queen of T.V."
+    ],
+    "realName": "Betty Marion White",
+    "spouses": [
+      {
+        "attributes": "(his death)",
+        "fromDate": "1963-06-14",
+        "id": "/name/nm0524843/",
+        "name": "Allen Ludden",
+        "toDate": "1981-06-09"
+      },
+      {
+        "attributes": "(divorced)",
+        "fromDate": "1947-11-08",
+        "id": "/name/nm0019974/",
+        "name": "Lane Allan",
+        "toDate": "1949-07-17"
+      },
+      {
+        "attributes": "(divorced)",
+        "fromDate": "1945-07-07",
+        "name": "Frederick Richard (Dick) Barker",
+        "toDate": "1945-12-18"
+      }
+    ],
+    "trademarks": [
+      "Seductive raspy voice",
+      "Sparkling blue eyes",
+      "Always smiling and sunny disposition"
+    ],
+    "miniBios": [
+      {
+        "author": "A. Nonymous",
+        "id": "/name/nm0924508/bio/mb0038086",
+        "language": "en",
+        "text": "Betty White was born in Oak Park, Illinois, to Christine Tess (Cachikis), a homemaker, and Horace Logan White, a lighting company executive for the Crouse-Hinds Electric Company. She is of Danish, Greek, English, and Welsh descent.\n\nAlthough best known as the devious Sue Ann Nivens on the classic sitcom The Mary Tyler Moore Show (1970) and the ditzy Rose Nylund on The Golden Girls (1985), Betty White had been in television for a long, long time before those two shows, having had her own series, Life with Elizabeth (1952) in 1952. The widow of TV game-show host Allen Ludden, she has been inducted into the Television Hall of Fame and is known for her tireless efforts on behalf of animals."
+      }
+    ],
+    "filmography": [
+      {
+        "attr": [
+          "archiveFootage"
+        ],
+        "category": "archive_footage",
+        "characters": [
+          "Self"
+        ],
+        "roles": [
+          {
+            "character": "Self"
+          }
+        ],
+        "id": "/title/tt14563132/",
+        "image": {
+          "height": 2304,
+          "id": "/title/tt14563132/images/rm1869135873",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjYyYjIzNDgtMzhjZi00ODQzLWIyODUtNTc1ZWZmZDQ2YzBkXkEyXkFqcGdeQXVyNjc0NTc4MTY@._V1_.jpg",
+          "width": 1728
+        },
+        "status": "pre production",
+        "title": "The Chinese American Immigrant",
+        "titleType": "movie",
+        "year": 2022,
+        "movieCast": [
+          "nm0000230",
+          "nm0000093",
+          "nm0005154",
+          "nm0000706"
+        ]
+      },
+      {
+        "episodeAppearances": "/name/nm0924508/filmography/tt14350704",
+        "category": "archive_footage",
+        "characters": [
+          "Self - Guest"
+        ],
+        "endYear": 2022,
+        "episodeCount": 1,
+        "roles": [
+          {
+            "character": "Self - Guest",
+            "episodeCount": 1
+          }
+        ],
+        "startYear": 2022,
+        "id": "/title/tt14350704/",
+        "status": "released",
+        "title": "The Kendall K. & Friends Show",
+        "titleType": "tvSeries",
+        "year": 2022,
+        "episodes": [
+          {
+            "attr": [
+              "archiveFootage"
+            ],
+            "category": "archive_footage",
+            "characters": [
+              "Self - Guest"
+            ],
+            "roles": [
+              {
+                "character": "Self - Guest"
+              }
+            ],
+            "id": "/title/tt16757642/",
+            "status": "released",
+            "title": "Miley Cyrus, The Party Pays A Tribute to Miss Tiffini Hale and Betty White Remembered.",
+            "titleType": "tvEpisode",
+            "year": 2022,
+            "episodeNumber": 9,
+            "releaseDate": "2022-09-08",
+            "seasonNumber": 1
+          }
+        ],
+        "seriesStartYear": 2022,
+        "movieCast": [
+          "nm4855868",
+          "nm4703354",
+          "nm4855605",
+          "nm6177408",
+          "nm8366479",
+          "nm4703276",
+          "nm4656903",
+          "nm12640722",
+          "nm1084562",
+          "nm8366478"
+        ]
+      }
+    ],
+    "actorsRelation": [
+      "nm0000230",
+      "nm0000093",
+      "nm0005154",
+      "nm0000706",
+      "nm4855868",
+      "nm4703354",
+      "nm4855605",
+      "nm6177408",
+      "nm8366479",
+      "nm4703276",
+      "nm4656903",
+      "nm12640722",
+      "nm1084562",
+      "nm8366478"
+    ]
+  },
+  "nm4728284": {
+    "@type": "imdb.api.name.bio",
+    "id": "/name/nm4728284/",
+    "image": {
+      "height": 2480,
+      "id": "/name/nm4728284/images/rm971140352",
+      "url": "https://m.media-amazon.com/images/M/MV5BNzRmNmI5NWQtZmUwNi00YTQ3LTgwZWYtM2MyYzE1MDZhODBiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "width": 2624
+    },
+    "legacyNameText": "Korros, Bj",
+    "name": "Bj Korros",
+    "gender": "male",
+    "miniBios": [
+      {
+        "id": "/name/nm4728284/bio/bo424990066",
+        "language": "en",
+        "text": "Bj Korros is known for The Hollywood Moment at Home Edition (2020), The Hollywood Moment (2010) and Shout Out for A Cause at Home Edition (2020-) (2020)."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0000093": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Weatherman"
+    ],
+    "id": "/name/nm0000093/",
+    "image": {
+      "height": 2048,
+      "id": "/name/nm0000093/images/rm864335360",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_.jpg",
+      "width": 1363
+    },
+    "legacyNameText": "Pitt, Brad",
+    "name": "Brad Pitt",
+    "birthDate": "1963-12-18",
+    "birthPlace": "Shawnee, Oklahoma, USA",
+    "gender": "male",
+    "heightCentimeters": 180.34,
+    "nicknames": [
+      "Brad"
+    ],
+    "realName": "William Bradley Pitt",
+    "spouses": [
+      {
+        "attributes": "(divorced) (6 children)",
+        "fromDate": "2014-08-23",
+        "id": "/name/nm0001401/",
+        "name": "Angelina Jolie",
+        "toDate": "2019-04-13"
+      },
+      {
+        "attributes": "(divorced)",
+        "fromDate": "2000-07-29",
+        "id": "/name/nm0000098/",
+        "name": "Jennifer Aniston",
+        "toDate": "2005-10-02"
+      }
+    ],
+    "trademarks": [
+      "Chiseled good looks",
+      "Strong jawline and bold blue eyes",
+      "Frequently works with David Fincher"
+    ],
+    "miniBios": [
+      {
+        "author": "Anonymous and JJH",
+        "id": "/name/nm0000093/bio/mb0174672",
+        "language": "en",
+        "text": "William Bradley \"Brad\" Pitt was born on December 18, 1963 in Shawnee, Oklahoma and raised in Springfield, Missouri to Jane Etta Pitt (née Hillhouse), a school counselor & William Alvin \"Bill\" Pitt, a truck company manager. At Kickapoo High School, Pitt was involved in sports, debating, student government and school musicals. Pitt attended the University of Missouri, where he majored in journalism with a focus on advertising. He occasionally acted in fraternity shows. He left college two credits short of graduating to move to California. Before he became successful at acting, Pitt supported himself by driving strippers in limos, moving refrigerators and dressing as a giant chicken while working for El Pollo Loco.\n\nPitt's earliest credited roles were in television, starting on the daytime soap opera Another World (1964) before appearing in the recurring role of Randy on the legendary prime time soap opera Dallas (1978). Following a string of guest appearances on various television series through the 1980s, Pitt gained widespread attention with a small part in Thelma & Louise (1991), in which he played a sexy criminal who romanced and conned Geena Davis. This led to starring roles in badly received films such as Johnny Suede (1991) & Cool World (1992).\n\nBut Pitt's career hit an upswing with his casting in A River Runs Through It (1992), which cemented his status as an multi-layered actor as opposed to just a pretty face. Pitt's subsequent projects were as quirky and varied in tone as his performances, ranging from his unforgettably comic cameo as stoner roommate Floyd in True Romance (1993) to romantic roles in such visually lavish films as Interview with the Vampire: The Vampire Chronicles (1994) and Legends of the Fall (1994), to an emotionally tortured detective in the horror-thriller Se7en (1995). His portrayal of frenetic oddball Jeffrey Goines in 12 Monkeys (1995) won him a Globe for Best Performance by an Actor in a Supporting Role.\n\nPitt's portrayal of Achilles in the big-budget period drama Troy (2004) helped establish his appeal as an action star and was closely followed by a co-starring role in the stylish spy-versus-spy flick Mr. & Mrs. Smith (2005). It was on the set of Mr. & Mrs. Smith that Pitt, who married Jennifer Aniston in a highly publicized ceremony in 2000, met Angelina Jolie. Pitt left Aniston for Jolie in 2005, a break-up that continues to fuel tabloid stories years after its occurrence.\n\nHe continues to wildly vary his film choices, appearing in everything from high-concept popcorn flicks such as Megamind (2010) to adventurous critic-bait like Inglourious Basterds (2009) and The Tree of Life (2011). He has received two Best Actor Oscar nominations, for The Curious Case of Benjamin Button (2008) and Moneyball (2011). In 2014, he starred in the war film Fury (2014), opposite Shia LaBeouf, Logan Lerman, Jon Bernthal, and Michael Peña.\n\nPitt and Jolie have 6 children, 3 adopted & 3 biological."
+      }
+    ],
+    "filmography": [
+      {
+        "attr": [
+          "archiveFootage"
+        ],
+        "category": "archive_footage",
+        "characters": [
+          "Self"
+        ],
+        "roles": [
+          {
+            "character": "Self"
+          }
+        ],
+        "id": "/title/tt13891626/",
+        "image": {
+          "height": 1445,
+          "id": "/title/tt13891626/images/rm180865537",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDlmM2NkODEtN2E3ZS00N2MwLWEwZDMtMzNmMTFhN2E2MGQzXkEyXkFqcGdeQXVyNjEwOTIyNA@@._V1_.jpg",
+          "width": 2146
+        },
+        "status": "post production",
+        "title": "Hollywood Celebrity",
+        "titleType": "movie",
+        "movieCast": [
+          "nm0000775",
+          "nm3053338",
+          "nm0000093",
+          "nm0000115",
+          "nm0000246",
+          "nm0000645",
+          "nm0000138",
+          "nm0000136",
+          "nm0000206",
+          "nm0000701"
+        ]
+      },
+      {
+        "attr": [
+          "archiveFootage"
+        ],
+        "category": "archive_footage",
+        "characters": [
+          "Self"
+        ],
+        "roles": [
+          {
+            "character": "Self"
+          }
+        ],
+        "id": "/title/tt11596192/",
+        "image": {
+          "height": 1898,
+          "id": "/title/tt11596192/images/rm1541919745",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDFmNDYwNjAtZGJmNC00MzkzLTg5NGEtNDYxZjg5MzhiZjAyXkEyXkFqcGdeQXVyMTAxMzY2NDc5._V1_.jpg",
+          "width": 1125
+        },
+        "status": "post production",
+        "title": "Searching for America",
+        "titleType": "movie",
+        "year": 2024,
+        "movieCast": [
+          "nm0000093",
+          "nm0000158",
+          "nm0001774",
+          "nm0000197",
+          "nm0000709",
+          "nm0002354",
+          "nm0000454",
+          "nm0000641"
+        ]
+      }
+    ],
+    "actorsRelation": [
+      "nm0000775",
+      "nm3053338",
+      "nm0000093",
+      "nm0000115",
+      "nm0000246",
+      "nm0000645",
+      "nm0000138",
+      "nm0000136",
+      "nm0000206",
+      "nm0000701",
+      "nm0000158",
+      "nm0001774",
+      "nm0000197",
+      "nm0000709",
+      "nm0002354",
+      "nm0000454",
+      "nm0000641"
+    ]
+  },
+  "nm0004984": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Deidra Hall",
+      "Deirdre Hall",
+      "Diedre Hall",
+      "Deidre Hudson"
+    ],
+    "id": "/name/nm0004984/",
+    "image": {
+      "height": 400,
+      "id": "/name/nm0004984/images/rm2537921280",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDU1NjM5OF5BMl5BanBnXkFtZTYwNTY0MzA1._V1_.jpg",
+      "width": 265
+    },
+    "legacyNameText": "Hall, Deidre",
+    "name": "Deidre Hall",
+    "birthDate": "1947-10-31",
+    "birthPlace": "Milwaukee, Wisconsin, USA",
+    "gender": "female",
+    "heightCentimeters": 170.18,
+    "nicknames": [
+      "Dee"
+    ],
+    "realName": "Deidre Ann Hall",
+    "spouses": [
+      {
+        "attributes": "(divorced) (2 children)",
+        "fromDate": "1991-12-31",
+        "id": "/name/nm0812289/",
+        "name": "Steve Sohmer",
+        "toDate": "2006"
+      },
+      {
+        "attributes": "(divorced)",
+        "fromDate": "1987-10-17",
+        "id": "/name/nm1754601/",
+        "name": "Michael Dubelko",
+        "toDate": "1989"
+      },
+      {
+        "attributes": "(divorced)",
+        "fromDate": "1972",
+        "id": "/name/nm0053833/",
+        "name": "Keith Barbour",
+        "toDate": "1978-08-24"
+      },
+      {
+        "attributes": "(divorced)",
+        "fromDate": "1966-05-06",
+        "name": "William Hudson",
+        "toDate": "1970"
+      }
+    ],
+    "miniBios": [
+      {
+        "author": "Natasha Hall <magrio@ibm.net>",
+        "id": "/name/nm0004984/bio/mb0014830",
+        "language": "en",
+        "text": "Deidre Hall has emerged as one of America's most beloved actresses, who delighted her fans in August 1991, when she returned to NBC-TV's number one daytime program, Days of Our Lives (1965). Hall created the role of \"Dr. Marlena Evans\" in 1976, a character whose popularity has created a furor and a fan following, seldom seen on television. The favorable regard in which Hall is held has spanned all demographics and regions. She was named Best Television Role Model; won the prestigious America Women in Radio and Television (AWRT) award in 1994; garnered five Best Actress awards from Soap Opera Digest (1982-85,1995), and broke new ground for daytime stars when she guested on shows such as The Tonight Show Starring Johnny Carson (1962), Night of 100 Stars II (1985) and 20/20 (1978), at the birth of her surrogate son. Recognizing her continuing appeal, in 1990, the Hallmark Co. chose Hall as celebrity spokesperson for a new card line called, \"To Kids with Love\". The following spring, Deidre became the sole spokesperson for Dexatrim. Deidre's elegant fashion statements have not gone unnoticed in the press. Twice naming her the \"Best Dressed Woman\", she was also named one of America's ten most beautiful women by TV Guide and Satellite Orbit. Hall has graced the covers of national and regional magazines such as People, Woman, Woman's Own, TV Guide, Woman's World, McCalls, Family Circle, Shape, Los Angeles Magazine, Beverly Hills (213), Orange Coast and First for Women."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0005534": {
+    "@type": "imdb.api.name.bio",
+    "id": "/name/nm0005534/",
+    "image": {
+      "height": 400,
+      "id": "/name/nm0005534/images/rm1677362944",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU1MjY5MTg5Ml5BMl5BanBnXkFtZTcwMzA1MTMwNA@@._V1_.jpg",
+      "width": 276
+    },
+    "legacyNameText": "Warren, Diane",
+    "name": "Diane Warren",
+    "birthDate": "1956-09-07",
+    "birthPlace": "Van Nuys, California, USA",
+    "gender": "female",
+    "realName": "Diane Eve Warren",
+    "miniBios": [
+      {
+        "author": "Alice Keymer",
+        "id": "/name/nm0005534/bio/mb0037542",
+        "language": "en",
+        "text": "Diane was born in Van Nuys, California, USA on September 7, 1956 to parents David and Flora Warren. She become a prolific writer in her neighborhood, writing songs every day and eventually surpassing 1,000 of them. Her dad (an insurance salesman) took Diane to see publishers who said she had potential, but to come back and see them in the future. After signing with producer Jack White, circa 1983, the partnership produced her songs \"Solitaire\" and \"Hot Night\", which was recorded by Laura Branigan for the Ghostbusters (1984) soundtrack. It was also the beginning of a long line of film song projects, which produced many Oscar and Golden Globe nominations. After a legal battle with producer Jack White, Diane started her own publishing company called \"Real Songs\" in the late 80s. The company has the rights to all her songs and makes deals with hundreds of artists (and record companies) who record them."
+      }
+    ],
+    "filmography": [
+      {
+        "category": "self",
+        "id": "/title/tt5685682/",
+        "status": "filming",
+        "title": "The Cole Porter Project",
+        "titleType": "movie",
+        "movieCast": []
+      },
+      {
+        "category": "self",
+        "characters": [
+          "Self"
+        ],
+        "roles": [
+          {
+            "character": "Self"
+          }
+        ],
+        "id": "/title/tt14588692/",
+        "status": "filming",
+        "title": "Untitled Diane Warren Project",
+        "titleType": "movie",
+        "movieCast": []
+      },
+      {
+        "category": "self",
+        "characters": [
+          "Self"
+        ],
+        "roles": [
+          {
+            "character": "Self"
+          }
+        ],
+        "id": "/title/tt23731876/",
+        "image": {
+          "height": 3300,
+          "id": "/title/tt23731876/images/rm480655873",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmViYWYwOTItMThhNS00OTY5LTk1MGItYWRhYWI1NDYwMjIyXkEyXkFqcGdeQXVyNTgxNzMzODA@._V1_.jpg",
+          "width": 2550
+        },
+        "title": "Applause",
+        "titleType": "musicVideo",
+        "year": 2022,
+        "movieCast": []
+      }
+    ],
+    "actorsRelation": []
+  },
+  "nm0041395": {
+    "@type": "imdb.api.name.bio",
+    "id": "/name/nm0041395/",
+    "legacyNameText": "Aubrey, Diane",
+    "name": "Diane Aubrey",
+    "birthDate": "1939",
+    "birthPlace": "West Bridgeford, Nottinghamshire, England, Uk",
+    "gender": "female",
+    "heightCentimeters": 165.1,
+    "spouses": [
+      {
+        "attributes": "(divorced) (2 children)",
+        "fromDate": "1967",
+        "id": "/name/nm0448392/",
+        "name": "Troy Kennedy-Martin"
+      }
+    ],
+    "miniBios": [
+      {
+        "author": "Diana Aubrey",
+        "id": "/name/nm0041395/bio/mb0083818",
+        "language": "en",
+        "text": "Diane Aubrey's acting career spanned from the age of 18 while she was still at drama school, when in Grip of the Strangler with Boris Karloff. Immediately on leaving drama school she went straight into television, a BBC production of Gorky's Lower Depths. She worked consistently till marrying Troy Kennedy Martin and having her first child. After that she made a brief come back in the 70s with some film, some TV commercials and a play in London directed by Timothy West. She now lives in North London and is a teacher of the Alexander Technique."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0130191": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Eva LaRue Callahan",
+      "Eva La Rue",
+      "Eva Larue"
+    ],
+    "id": "/name/nm0130191/",
+    "image": {
+      "height": 2048,
+      "id": "/name/nm0130191/images/rm845264896",
+      "url": "https://m.media-amazon.com/images/M/MV5BNzYyOTEwODUyMV5BMl5BanBnXkFtZTcwMzU3NzQ5NA@@._V1_.jpg",
+      "width": 1445
+    },
+    "legacyNameText": "LaRue, Eva",
+    "name": "Eva LaRue",
+    "birthDate": "1966-12-27",
+    "birthPlace": "Long Beach, California, USA",
+    "gender": "female",
+    "heightCentimeters": 170.18,
+    "realName": "Eva Maria LaRuy",
+    "spouses": [
+      {
+        "attributes": "(divorced)",
+        "fromDate": "2010-06-28",
+        "name": "Joe Cappuccio",
+        "toDate": "2014"
+      },
+      {
+        "attributes": "(divorced) (1 child)",
+        "fromDate": "1996-11-30",
+        "id": "/name/nm0130215/",
+        "name": "John Callahan",
+        "toDate": "2005"
+      },
+      {
+        "attributes": "(divorced)",
+        "fromDate": "1992-08",
+        "id": "/name/nm0641417/",
+        "name": "John O'Hurley",
+        "toDate": "1994"
+      }
+    ],
+    "miniBios": [
+      {
+        "author": "A. Nonymous",
+        "id": "/name/nm0130191/bio/mb0020111",
+        "language": "en",
+        "text": "Eva LaRue grew up in California. At the age of 6 she began her show-business career. She starred in television commercials and sang many \"jingles\" for them. She still often sings at sports events and any other opportunities that arise. Eva likes to ride horses and has shown horses for over a decade. She also enjoys Tae Kwon Do. She's the oldest of three children. She loves acting and is well into her craft."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm1007605": {
+    "@type": "imdb.api.name.bio",
+    "id": "/name/nm1007605/",
+    "image": {
+      "height": 1987,
+      "id": "/name/nm1007605/images/rm1663043072",
+      "url": "https://m.media-amazon.com/images/M/MV5BYjIwZWRkYjgtMGYyNC00NTc3LTkxNzMtNTAzMjIxNGYxOTEzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "width": 1536
+    },
+    "legacyNameText": "Martsolf, Eric",
+    "name": "Eric Martsolf",
+    "birthDate": "1971-07-27",
+    "birthPlace": "Harrisburg, Pennsylvania, USA",
+    "gender": "male",
+    "heightCentimeters": 187.96,
+    "nicknames": [
+      "Martnut"
+    ],
+    "spouses": [
+      {
+        "attributes": "(2 children)",
+        "current": true,
+        "fromDate": "2003-10-10",
+        "id": "/name/nm1257591/",
+        "name": "Lisa Kouchak"
+      }
+    ],
+    "miniBios": [
+      {
+        "author": "Eric Martsolf",
+        "id": "/name/nm1007605/bio/mb0595585",
+        "language": "en",
+        "text": "With over 3500 episodes of television under this belt, Eric has been providing \"love in the afternoon\" for NBC Daytime for the last 18 years. His portrayals of Ethan Winthrop on \"Passions\" and currently Brady Black on \"Days of Our Lives\" have resulted in numerous industry accolades. He made daytime history in 2014 by being the first actor ever to win an Emmy in the Best Supporting Actor category for \"Days of Our Lives.\" His television credits expand into primetime (Extant, NCIS, Rizzoli & Isles), and his musical theater repertoire consists of over 40 productions, including his critically acclaimed role as the Pharaoh in the Osmond Broadway Tour of \"Joseph & the Amazing Technicolor Dreamcoat.\" Fans of the DC Universe will most notably recognize him as Justice League member and futuristic superhero Booster Gold from the CW series \"Smallville\"."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0000799": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Ed Asner"
+    ],
+    "id": "/name/nm0000799/",
+    "image": {
+      "height": 400,
+      "id": "/name/nm0000799/images/rm3464861440",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk0MDI4ODk5NF5BMl5BanBnXkFtZTcwMzg3ODQ3MQ@@._V1_.jpg",
+      "width": 275
+    },
+    "legacyNameText": "Asner, Edward",
+    "name": "Edward Asner",
+    "birthDate": "1929-11-15",
+    "birthPlace": "Kansas City, Missouri, USA",
+    "deathCause": "natural causes",
+    "deathDate": "2021-08-29",
+    "deathPlace": "Tarzana, California, USA",
+    "gender": "male",
+    "heightCentimeters": 170.18,
+    "isDead": true,
+    "nicknames": [
+      "Edward Asner"
+    ],
+    "realName": "Eddie Asner",
+    "spouses": [
+      {
+        "attributes": "(filed for divorce)",
+        "fromDate": "1998-08-02",
+        "id": "/name/nm0319507/",
+        "name": "Cindy Gilmore",
+        "toDate": "2015"
+      },
+      {
+        "attributes": "(divorced) (3 children)",
+        "fromDate": "1959-03-23",
+        "id": "/name/nm0843085/",
+        "name": "Nancy Sykes",
+        "toDate": "1988"
+      }
+    ],
+    "trademarks": [
+      "Distinctive gravelly voice"
+    ],
+    "miniBios": [
+      {
+        "author": "I.S.Mowis",
+        "id": "/name/nm0000799/bio/mb0160113",
+        "language": "en",
+        "text": "Edward Asner was born of Russian Jewish parentage in Kansas City, to Morris David Asner (founder and owner of the Kansas City-based Asner Iron & Metal Company) and his wife Elizabeth \"Lizzie\" (Seliger). After attending college, Ed worked various jobs, including in a steel mill, as a door-to-door salesman and on an assembly line for General Motors. Between 1947 and 1949, he attended the University of Chicago. The onset of the Korean War saw him drafted into the U.S. Army Signals Corps and posted to France where he was primarily assigned clerical tasks. Upon demobilization, Asner joined the Playwrights Theatre Company in Chicago but soon progressed to New York. In 1955, he appeared off-Broadway in the leading role of the beggar king Jonathan Peachum in Brecht's Threepenny Opera. Five years later, he made his debut on the Great White Way in the courtroom drama Face of a Hero, co-starring alongside Jack Lemmon. He also began regular TV work in anthology drama.\n\nFrom the early '60s, Asner, now based in California, earned his living as a busy supporting actor. His many noted guest appearances included turns in Route 66 (1960), The Untouchables (1959), The Fugitive (1963), Voyage to the Bottom of the Sea (1964) (sinister dictator-in-exile Brynov), The Invaders (1967) (twice -- as aliens) and How the Ghosts Stole Christmas (1998) (one of a couple of ghostly residents in a haunted mansion). Heavy-set and distinctively gravelly-voiced, Asner established his reputation as tough, robust and uncompromising (though, on occasion, good-hearted) authority figures. Excellent at conveying menace, he was memorably cast as the brutish patriarch Axel Jordache in Rich Man, Poor Man (1976) and as the slave ship's morally conflicted master, Captain Thomas Davies, in Roots (1977), which earned him a Primetime Emmy Award in 1977. The immensely prolific Asner (417 IMDB screen credits!) would receive seven Emmys in total (from 21 nominations), all Primetime, and become the only actor to win in both the comedy and drama category for the same role. That was also the part which made Asner a household name: the gruff, snarky newspaper editor Lou Grant (1977). Grant began as a mainstay on The Mary Tyler Moore Show (1970), a 30-minute sitcom.\n\nWhen the character was promoted to West Coast editor of The Los Angeles Tribune, Asner went on to star in his own much acclaimed drama series. Despite consistently high ratings, the show was axed after five seasons amid rumours of disharmony between the star and producers, possibly due to the former's outspoken political views. Indeed, Asner has been a controversial figure as an activist and campaigner, engaged in a variety of humanitarian and political issues. A self-proclaimed liberal Democrat, he published a book in 2017, amusingly titled \"The Grouchy Historian: An Old-Time Lefty Defends Our Constitution Against Right-Wing Hypocrites and Nutjobs.\"\n\nBetween 1981 and 1985, Asner served twice as President of the Screen Actors Guild, during which time he was critical of former SAG President Ronald Reagan -- then the president of a greater concern -- for his Central American policy. In 1996, he was inducted into the Television Hall of Fame and in 2002 received the Screen Actors Guild's Life Achievement Award. In addition to appearing on screen and stage, he performed extensive work for radio, video games and animated TV series. He voiced the lead character Carl Fredricksen in Pixar's Oscar-winning production of Up (2009), starred as Santa in Elf (2003), and played Nicholas Drago in The Games Maker (2014). Ed passed away in Los Angeles at the age of 91 on August 29, 2021."
+      }
+    ],
+    "filmography": [
+      {
+        "episodeAppearances": "/name/nm0000799/filmography/tt14779832",
+        "category": "actor",
+        "id": "/title/tt14779832/",
+        "status": "treatment outline",
+        "title": "Untitled B.J. Novak Project",
+        "titleType": "tvSeries",
+        "movieCast": []
+      },
+      {
+        "as": "Ed Asner",
+        "category": "actor",
+        "id": "/title/tt1270837/",
+        "image": {
+          "height": 707,
+          "id": "/title/tt1270837/images/rm1528207104",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTI5NjIzNjA5N15BMl5BanBnXkFtZTcwNTc5MjM4MQ@@._V1_.jpg",
+          "width": 1000
+        },
+        "status": "script",
+        "title": "Everbrook",
+        "titleType": "movie",
+        "movieCast": []
+      },
+      {
+        "category": "actor",
+        "characters": [
+          "Stanley"
+        ],
+        "roles": [
+          {
+            "character": "Stanley"
+          }
+        ],
+        "id": "/title/tt9576060/",
+        "status": "script",
+        "title": "Let's Get Lost",
+        "titleType": "movie",
+        "movieCast": []
+      },
+      {
+        "category": "actor",
+        "characters": [
+          "Roland Van Pedigree"
+        ],
+        "roles": [
+          {
+            "character": "Roland Van Pedigree"
+          }
+        ],
+        "id": "/title/tt5906210/",
+        "image": {
+          "height": 864,
+          "id": "/title/tt5906210/images/rm4108868352",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2RiNmJhNmItZjdiNS00OWUzLThkYzAtOTAyMjRjOGYxMGZjXkEyXkFqcGdeQXVyMjEwNjIzMTU@._V1_.jpg",
+          "width": 648
+        },
+        "status": "script",
+        "title": "The Dobermans",
+        "titleType": "movie",
+        "movieCast": []
+      }
+    ],
+    "actorsRelation": []
+  },
+  "nm12004433": {
+    "@type": "imdb.api.name.bio",
+    "disambiguation": "III",
+    "id": "/name/nm12004433/",
+    "legacyNameText": "Shortall, Eileen (III)",
+    "name": "Eileen Shortall",
+    "gender": "male",
+    "miniBios": [
+      {
+        "id": "/name/nm12004433/bio/bo441919632",
+        "language": "en",
+        "text": "Eileen Shortall is known for Hollywood Insider (2018)."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0000130": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Jamie Leigh Curtis",
+      "Lady Haden-Guest"
+    ],
+    "id": "/name/nm0000130/",
+    "image": {
+      "height": 750,
+      "id": "/name/nm0000130/images/rm3119444480",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI0MTI0MDk2OV5BMl5BanBnXkFtZTgwODQ4MTE0NDE@._V1_.jpg",
+      "width": 564
+    },
+    "legacyNameText": "Curtis, Jamie Lee",
+    "name": "Jamie Lee Curtis",
+    "birthDate": "1958-11-22",
+    "birthPlace": "Los Angeles, California, USA",
+    "gender": "female",
+    "heightCentimeters": 170.18,
+    "nicknames": [
+      "The Scream Queen",
+      "The Queen of Screams",
+      "The Body"
+    ],
+    "spouses": [
+      {
+        "attributes": "(2 children)",
+        "current": true,
+        "fromDate": "1984-12-18",
+        "id": "/name/nm0001302/",
+        "name": "Christopher Guest"
+      }
+    ],
+    "trademarks": [
+      "Her sexy legs",
+      "Athletic figure",
+      "Deep sultry voice",
+      "Her short hair",
+      "Early in her career, \"final girl\" roles"
+    ],
+    "miniBios": [
+      {
+        "author": "Barry Leger and Jessey Love-Wadkins",
+        "id": "/name/nm0000130/bio/mb0008063",
+        "language": "en",
+        "text": "Jamie Lee Curtis was born on November 22, 1958 in Los Angeles, California, the daughter of legendary actors Janet Leigh and Tony Curtis. She got her big break at acting in 1978 when she won the role of Laurie Strode in Halloween (1978). After that, she became famous for roles in movies like Trading Places (1983), Perfect (1985) and A Fish Called Wanda (1988). She starred in one of the biggest action films ever, True Lies (1994), for which she won a Golden Globe Award for her performance. Curtis also appeared on Buck Rogers in the 25th Century (1979), and starred in Death of a Centerfold: The Dorothy Stratten Story (1981) as the title role. Her first starring role was opposite Richard Lewis on the ABC situation comedy Anything But Love (1989). In 1998, she starred in Halloween H20: 20 Years Later (1998) in which she reprised her role that made her famous back in 1978.\n\nJamie Lee served as an honorary chairperson for the Building Resilience for Young Children Dealing with Trauma program held at the Shakespeare Theatre - Harman Center for the Arts in Washington, D.C. She was an inspiration for the youth that were celebrated. Curtis was also given an award from US Department of Health and Human Services Kathleen Sebelius and National Endowment for the Arts Chairman Rocco Landesman for her work on behalf of children through her charities and children's books."
+      }
+    ],
+    "filmography": [
+      {
+        "episodeAppearances": "/name/nm0000130/filmography/tt4267324",
+        "category": "self",
+        "characters": [
+          "Self"
+        ],
+        "endYear": 2023,
+        "episodeCount": 2,
+        "roles": [
+          {
+            "character": "Self",
+            "episodeCount": 2
+          }
+        ],
+        "startYear": 2016,
+        "id": "/title/tt4267324/",
+        "image": {
+          "height": 3000,
+          "id": "/title/tt4267324/images/rm206901249",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTgxODFlZjAtY2JiOS00YzAyLTlhNjUtODBkYTQ4NTA4YzBkXkEyXkFqcGdeQXVyMTQyNTA4MzE1._V1_.jpg",
+          "width": 3000
+        },
+        "status": "released",
+        "title": "Variety Studio: Actors on Actors",
+        "titleType": "tvSeries",
+        "year": 2014,
+        "episodes": [
+          {
+            "category": "self",
+            "characters": [
+              "Self"
+            ],
+            "roles": [
+              {
+                "character": "Self"
+              }
+            ],
+            "id": "/title/tt24056022/",
+            "title": "Episode #17.1",
+            "titleType": "tvEpisode",
+            "year": 2023,
+            "episodeNumber": 1,
+            "releaseDate": "2023",
+            "seasonNumber": 17
+          },
+          {
+            "category": "self",
+            "characters": [
+              "Self"
+            ],
+            "roles": [
+              {
+                "character": "Self"
+              }
+            ],
+            "id": "/title/tt5651218/",
+            "status": "released",
+            "title": "Episode #4.1",
+            "titleType": "tvEpisode",
+            "year": 2016,
+            "episodeNumber": 1,
+            "releaseDate": "2016-06-12",
+            "seasonNumber": 4
+          }
+        ],
+        "seriesStartYear": 2014,
+        "movieCast": [
+          "nm0000173",
+          "nm3479762",
+          "nm1659547",
+          "nm1315663",
+          "nm1519666",
+          "nm0000368",
+          "nm0000474",
+          "nm0205626",
+          "nm0000168",
+          "nm0000701"
+        ]
+      },
+      {
+        "category": "self",
+        "characters": [
+          "Self"
+        ],
+        "roles": [
+          {
+            "character": "Self"
+          }
+        ],
+        "id": "/title/tt23049430/",
+        "image": {
+          "height": 3000,
+          "id": "/title/tt23049430/images/rm745342721",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTk0YWRmYTEtMjRmZi00OWJmLWIzNWItYWIwN2QyZjY2NzIzXkEyXkFqcGdeQXVyNjc1OTk4NjA@._V1_.jpg",
+          "width": 2000
+        },
+        "title": "Eddie Murphy: As Himself",
+        "titleType": "movie",
+        "year": 2022,
+        "movieCast": [
+          "nm0018735"
+        ]
+      }
+    ],
+    "actorsRelation": [
+      "nm0000173",
+      "nm3479762",
+      "nm1659547",
+      "nm1315663",
+      "nm1519666",
+      "nm0000368",
+      "nm0000474",
+      "nm0205626",
+      "nm0000168",
+      "nm0000701",
+      "nm0018735"
+    ]
+  },
+  "nm0000071": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Brig. Gen. Jimmy Stewart",
+      "General James Stewart",
+      "Jimmy Stewart",
+      "Lieutenant James Stewart",
+      "Mr. James Stewart",
+      "Brigadier General James Stewart USAFR"
+    ],
+    "disambiguation": "I",
+    "id": "/name/nm0000071/",
+    "image": {
+      "height": 2048,
+      "id": "/name/nm0000071/images/rm4020676608",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIwNzMzODY0NV5BMl5BanBnXkFtZTcwMDk3NDQyOA@@._V1_.jpg",
+      "width": 1638
+    },
+    "legacyNameText": "Stewart, James (I)",
+    "name": "James Stewart",
+    "birthDate": "1908-05-20",
+    "birthPlace": "Indiana, Pennsylvania, USA",
+    "deathCause": "cardiac arrest and pulmonary embolism following respiratory problems",
+    "deathDate": "1997-07-02",
+    "deathPlace": "Los Angeles, California, USA",
+    "gender": "male",
+    "heightCentimeters": 190.5,
+    "isDead": true,
+    "nicknames": [
+      "Jimmy"
+    ],
+    "realName": "James Maitland Stewart",
+    "spouses": [
+      {
+        "attributes": "(her death) (2 children)",
+        "fromDate": "1949-08-09",
+        "id": "/name/nm0829403/",
+        "name": "Gloria Stewart",
+        "toDate": "1994-02-16"
+      }
+    ],
+    "trademarks": [
+      "Soft-spoken, extremely polite and shy manner, with a very recognizable drawl in  his voice.",
+      "Often played honest, average middle class individuals who are unwittingly  drawn into some kind of crisis.",
+      "Roles in westerns.",
+      "After 1950, he often played tough, cynical and frequently ruthless characters.",
+      "Often worked with directors Frank Capra, Anthony Mann, John Ford and Alfred Hitchcock.",
+      "His stuttering voice, which has often been parodied to exaggerated effect.",
+      "His tall, thin frame.",
+      "Dark brown hair and blue eyes."
+    ],
+    "miniBios": [
+      {
+        "author": "fmetz",
+        "id": "/name/nm0000071/bio/mb0146257",
+        "language": "en",
+        "text": "James Maitland Stewart was born on May 20, 1908, in Indiana, Pennsylvania, to Elizabeth Ruth (Johnson) and Alexander Maitland Stewart, who owned a hardware store. He was of Scottish, Ulster-Scots, and some English descent. Stewart was educated at a local prep school, Mercersburg Academy, where he was a keen athlete (football and track), musician (singing and accordion playing), and sometime actor.\n\nIn 1929, he won a place at Princeton University, where he studied architecture with some success and became further involved with the performing arts as a musician and actor with the University Players. After graduation, engagements with the University Players took him around the northeastern United States, including a run on Broadway in 1932. But work dried up as the Great Depression deepened, and it was not until 1934, when he followed his friend Henry Fonda to Hollywood, that things began to pick up.\n\nAfter his first screen appearance in Art Trouble (1934), Stewart worked for a time for MGM as a contract player and slowly began making a name for himself in increasingly high-profile roles throughout the rest of the 1930s. His famous collaborations with Frank Capra, in You Can't Take It with You (1938), Mr. Smith Goes to Washington (1939), and, after World War II, It's a Wonderful Life (1946) helped to launch his career as a star and to establish his screen persona as the likable everyman.\n\nHaving learned to fly in 1935, he was drafted into the United States Army in 1940 as a private (after twice failing the medical for being underweight). During the course of World War II, he rose to the rank of colonel, first as an instructor at home in the United States, and later on combat missions in Europe. He remained involved with the United States Air Force Reserve after the war and officially retired in 1968. In 1959, he was promoted to brigadier general, becoming the highest-ranking actor in U.S. military history.\n\nStewart's acting career took off properly after the war. During the course of his long professional life, he had roles in some of Hollywood's best-remembered films, starring in a string of Westerns, bringing his everyman qualities to movies like The Man Who Shot Liberty Valance (1962)), biopics (The Stratton Story (1949), The Glenn Miller Story (1954), and The Spirit of St. Louis (1957), for instance, thrillers (most notably his frequent collaborations with Alfred Hitchcock), and even some screwball comedies.\n\nOn June 25, 1997, a thrombosis formed in his right leg, leading to a pulmonary embolism, and a week later on July 2, 1997, surrounded by his children, James Stewart died at age 89 at his home in Beverly Hills, California. His last words to his family were, \"I'm going to be with Gloria now\"."
+      }
+    ],
+    "filmography": [
+      {
+        "episodeAppearances": "/name/nm0000071/filmography/tt8638066",
+        "category": "self",
+        "characters": [
+          "Self"
+        ],
+        "endYear": 2022,
+        "episodeCount": 2,
+        "roles": [
+          {
+            "character": "Self",
+            "episodeCount": 2
+          }
+        ],
+        "startYear": 2021,
+        "id": "/title/tt8638066/",
+        "image": {
+          "height": 2202,
+          "id": "/title/tt8638066/images/rm3578152448",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmMyNThjYmItNTFhNi00ZWNiLTgzNTctOGQ0M2FiMmJjNjMzXkEyXkFqcGdeQXVyNjk3ODkyODQ@._V1_.jpg",
+          "width": 1624
+        },
+        "status": "released",
+        "title": "Hollywood Insider",
+        "titleType": "tvSeries",
+        "year": 2018,
+        "episodes": [
+          {
+            "category": "self",
+            "characters": [
+              "Self"
+            ],
+            "roles": [
+              {
+                "character": "Self"
+              }
+            ],
+            "id": "/title/tt23097790/",
+            "status": "released",
+            "title": "Seven Great Movies Depicting Small Town America: What's Eating Gilbert Grape, Fargo, Nebraska & More",
+            "titleType": "tvEpisode",
+            "year": 2022,
+            "episodeNumber": 57,
+            "releaseDate": "2022-02-23",
+            "seasonNumber": 14
+          },
+          {
+            "category": "self",
+            "characters": [
+              "Self"
+            ],
+            "roles": [
+              {
+                "character": "Self"
+              }
+            ],
+            "id": "/title/tt21832528/",
+            "status": "released",
+            "title": "Remakes - Classics That Should Not Be Remade: Films that are Untouchable",
+            "titleType": "tvEpisode",
+            "year": 2021,
+            "episodeNumber": 93,
+            "releaseDate": "2021-03-18",
+            "seasonNumber": 11
+          }
+        ],
+        "seriesStartYear": 2018,
+        "movieCast": [
+          "nm1869577",
+          "nm0000138",
+          "nm4043618",
+          "nm3053338",
+          "nm11876654",
+          "nm0000093",
+          "nm0424060",
+          "nm0000233",
+          "nm3154303",
+          "nm12004433"
+        ]
+      },
+      {
+        "episodeAppearances": "/name/nm0000071/filmography/tt12336548",
+        "category": "self",
+        "characters": [
+          "Self"
+        ],
+        "endYear": 2020,
+        "episodeCount": 1,
+        "roles": [
+          {
+            "character": "Self",
+            "episodeCount": 1
+          }
+        ],
+        "startYear": 2020,
+        "id": "/title/tt12336548/",
+        "image": {
+          "height": 942,
+          "id": "/title/tt12336548/images/rm875279873",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjY1Njg1MzktZmRjZS00YzZhLTg5NjctNzJhNzA0Y2NiMDg2XkEyXkFqcGdeQXVyOTk4OTQ1Mzg@._V1_.jpg",
+          "width": 1532
+        },
+        "status": "released",
+        "title": "The Hollywood Moment at Home Edition",
+        "titleType": "tvSeries",
+        "year": 2020,
+        "episodes": [
+          {
+            "category": "self",
+            "characters": [
+              "Self"
+            ],
+            "roles": [
+              {
+                "character": "Self"
+              }
+            ],
+            "id": "/title/tt13766454/",
+            "status": "released",
+            "title": "BJ Korros \"It's A Wonderful Life\" Table Read",
+            "titleType": "tvEpisode",
+            "year": 2020,
+            "episodeNumber": 15,
+            "releaseDate": "2020-12-27",
+            "seasonNumber": 1
+          }
+        ],
+        "seriesStartYear": 2020,
+        "movieCast": [
+          "nm4728284",
+          "nm0000799",
+          "nm0005534",
+          "nm0004984",
+          "nm0511721",
+          "nm1007605",
+          "nm0924508",
+          "nm0130191",
+          "nm0676292",
+          "nm0000130"
+        ]
+      }
+    ],
+    "actorsRelation": [
+      "nm1869577",
+      "nm0000138",
+      "nm4043618",
+      "nm3053338",
+      "nm11876654",
+      "nm0000093",
+      "nm0424060",
+      "nm0000233",
+      "nm3154303",
+      "nm12004433",
+      "nm4728284",
+      "nm0000799",
+      "nm0005534",
+      "nm0004984",
+      "nm0511721",
+      "nm1007605",
+      "nm0924508",
+      "nm0130191",
+      "nm0676292",
+      "nm0000130"
+    ]
+  },
+  "nm0278979": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Jenna Fisher"
+    ],
+    "disambiguation": "I",
+    "id": "/name/nm0278979/",
+    "image": {
+      "height": 400,
+      "id": "/name/nm0278979/images/rm148279808",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMyOTYzODQ5MF5BMl5BanBnXkFtZTcwMjE3MDgzMQ@@._V1_.jpg",
+      "width": 320
+    },
+    "legacyNameText": "Fischer, Jenna (I)",
+    "name": "Jenna Fischer",
+    "birthDate": "1974-03-07",
+    "birthPlace": "Fort Wayne, Indiana, USA",
+    "gender": "female",
+    "heightCentimeters": 167.64,
+    "realName": "Regina Marie Fischer",
+    "spouses": [
+      {
+        "attributes": "(2 children)",
+        "current": true,
+        "fromDate": "2010-07-03",
+        "id": "/name/nm0456509/",
+        "name": "Lee Kirk"
+      },
+      {
+        "attributes": "(divorced)",
+        "fromDate": "2000-10-07",
+        "id": "/name/nm0348181/",
+        "name": "James Gunn",
+        "toDate": "2008-06"
+      }
+    ],
+    "miniBios": [
+      {
+        "author": "Odenkirk Provissiero Entertainment",
+        "id": "/name/nm0278979/bio/mb0871913",
+        "language": "en",
+        "text": "Jenna Fischer is best known for playing Pam Beesly on the acclaimed television show The Office, for which she received an Emmy nomination for Best Supporting Actress and two SAG Awards for Outstanding Performance by an Ensemble Comedy.\n\nShe was born in Fort Wayne, Indiana, but was raised mostly in St. Louis, Missouri. Jenna watched her mom, Anne, perform in church plays when she was young, which instilled a love of theater and performance.\n\nA trained theater actress, Fischer returned to her roots after wrapping The Office. She starred in the Off-Broadway play Reasons to Be Happy, written and directed by Neil LaBute and co-starring Josh Hamilton, Leslie Bibb, and Fred Weller. She went on to star in the world premiere of Steve Martin's newest play Meteor Shower, an absurdist comedy opposite Greg Germann and Josh Stamberg, for a record-breaking run at the Old Globe Theatre.\n\nIn October 2019, Fischer and The Office cast-mate and real-life best friend Angela Kinsey launched a podcast called Office Ladies on the Earwolf platform, which has become wildly popular, landing in the Top Ten globally every week and receiving over 200 million downloads in its first two years. In January 2021, Office Ladies won iHeart Radio's Podcast of the Year award.\n\nShe is the author of two books: The Actor's Life: A Survival Guide, in which she details her journey from St. Louis to Hollywood to become a working actress, and the forthcoming Office BFF's: Tales of The Office from Two Best Friends Who Were There (co-authored with Angela Kinsey), which is a memoir of their best friendship and time working on The Office."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0511721": {
+    "@type": "imdb.api.name.bio",
+    "id": "/name/nm0511721/",
+    "image": {
+      "height": 420,
+      "id": "/name/nm0511721/images/rm2660346369",
+      "url": "https://m.media-amazon.com/images/M/MV5BZmVlODQyOTYtNmE3MC00MmNmLWE5MjItNzYxYWNhNGU3NjVmXkEyXkFqcGdeQXVyMjMzNzcxNjU@._V1_.jpg",
+      "width": 500
+    },
+    "legacyNameText": "Linder, Kate",
+    "name": "Kate Linder",
+    "birthDate": "1947-11-02",
+    "birthPlace": "Pasadena, California, USA",
+    "gender": "female",
+    "heightCentimeters": 162.56,
+    "realName": "Catherine Helene Wolveck",
+    "spouses": [
+      {
+        "attributes": "(his death)",
+        "fromDate": "1976-02-14",
+        "id": "/name/nm3708605/",
+        "name": "Ronald Linder",
+        "toDate": "2017-06-19"
+      }
+    ],
+    "miniBios": [
+      {
+        "author": "Feldman Public Relations",
+        "id": "/name/nm0511721/bio/mb0933400",
+        "language": "en",
+        "text": "Kate Linder has portrayed Esther Valentine on CBS' The Young and the Restless since April, 1982. The popular daytime drama has been the #1 rated soap opera every week for over 30 years. In 2008, Linder received a star on the Hollywood Walk of Fame. Linder has a busy feature film career as well, she was in the feature films Hysteria, Erased, Miss Meadows, Garry Marshall's Mother's Day, Voice from the Stone and The Charnel House. Linder also co-stars in Charlie Matthau's upcoming feature, Book of Leah, Echo Boomers and Shriver.\n\nLinder has been the celebrity spokesperson for The ALS Association for over a decade since her late brother-in-law's initial diagnosis and is especially active with The ALS Association's Golden West Chapter. She has lobbied Congress on their behalf and won several of their national and state volunteer awards for her service. Linder was a longtime board member for SAG-AFTRA and a former two-time Governor of the Television Academy. She is active with countless charities that benefit research and support for health-related and LGBT causes. Linder also hosts annual charity teas in Canada that benefit the March of Dimes Canada's Conductive Education program, for which she also serves as ambassador. Linder also works with the Los Angeles Mission, has been the Grand Marshal of the Walk to End Lupus Now Los Angeles twice and has made several trips visiting troops with the USO.\n\nWebsite: KateLinder.com Twitter: @KATELINDER Instagram: @katelinderyr Facebook: @officialkatelinder"
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0000102": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "The Bacon Brothers",
+      "Kevin Bacon III",
+      "the Bacon Brothers"
+    ],
+    "disambiguation": "I",
+    "id": "/name/nm0000102/",
+    "image": {
+      "height": 2048,
+      "id": "/name/nm0000102/images/rm4099851008",
+      "url": "https://m.media-amazon.com/images/M/MV5BOTQxMTEyMjI0NV5BMl5BanBnXkFtZTgwODE4ODAzMjE@._V1_.jpg",
+      "width": 1365
+    },
+    "legacyNameText": "Bacon, Kevin (I)",
+    "name": "Kevin Bacon",
+    "birthDate": "1958-07-08",
+    "birthPlace": "Philadelphia, Pennsylvania, USA",
+    "gender": "male",
+    "heightCentimeters": 177.8,
+    "realName": "Kevin Norwood Bacon",
+    "spouses": [
+      {
+        "attributes": "(2 children)",
+        "current": true,
+        "fromDate": "1988-09-04",
+        "id": "/name/nm0001718/",
+        "name": "Kyra Sedgwick"
+      }
+    ],
+    "trademarks": [
+      "Deep resonant voice",
+      "Frequently plays anti-heroic protagonists",
+      "Often plays depraved and sadistic villains",
+      "Often plays supporting characters who have significant impact on leading characters",
+      "Often appears in large ensemble pieces, leading to the ease of many \"six degrees\" games",
+      "Known for playing unconventional and controversial roles in independent films"
+    ],
+    "miniBios": [
+      {
+        "author": "< elmic@post8.tele.dk>",
+        "id": "/name/nm0000102/bio/mb0001736",
+        "language": "en",
+        "text": "Kevin Norwood Bacon was born on July 8, 1958 in Philadelphia, Pennsylvania, to Ruth Hilda (Holmes), an elementary school teacher, and Edmund Norwood Bacon, a prominent architect who was on the cover of Time Magazine in November 1964.\n\nKevin's early training as an actor came from The Manning Street. His debut as the strict Chip Diller in National Lampoon's Animal House (1978) almost seems like an inside joke, but he managed to escape almost unnoticed from that role. Diner (1982) became the turning point after a couple of television series and a number of less-than-memorable movie roles. In a cast of soon-to-be stars, he more than held his end up, and we saw a glimpse of the real lunatic image of The Bacon. He also starred in Footloose (1984), She's Having a Baby (1988), Tremors (1990) with Fred Ward, Flatliners (1990), and Apollo 13 (1995).\n\nBacon is married to actress Kyra Sedgwick, with whom he has 2 children."
+      }
+    ],
+    "filmography": [
+      {
+        "episodeAppearances": "/name/nm0000102/filmography/tt21265140",
+        "category": "self",
+        "characters": [
+          "Self - Host"
+        ],
+        "roles": [
+          {
+            "character": "Self - Host"
+          }
+        ],
+        "id": "/title/tt21265140/",
+        "status": "pre production",
+        "title": "Lucky 13",
+        "titleType": "tvSeries",
+        "movieCast": []
+      },
+      {
+        "category": "self",
+        "characters": [
+          "Self"
+        ],
+        "roles": [
+          {
+            "character": "Self"
+          }
+        ],
+        "id": "/title/tt8696742/",
+        "image": {
+          "height": 3300,
+          "id": "/title/tt8696742/images/rm186611712",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWU2YjRkMTAtODM2YS00ZTRmLWFlMTktOWI1ODE1OTI0NTk4XkEyXkFqcGdeQXVyMjQ0MTA0NQ@@._V1_.jpg",
+          "width": 2550
+        },
+        "status": "post production",
+        "title": "The Orson Bean Show",
+        "titleType": "movie",
+        "movieCast": [
+          "nm0004730",
+          "nm0000102",
+          "nm0278979",
+          "nm0000071"
+        ]
+      }
+    ],
+    "actorsRelation": [
+      "nm0004730",
+      "nm0000102",
+      "nm0278979",
+      "nm0000071"
+    ]
+  },
+  "nm0000138": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Leonardo Di Caprio",
+      "Leo DiCaprio"
+    ],
+    "id": "/name/nm0000138/",
+    "image": {
+      "height": 400,
+      "id": "/name/nm0000138/images/rm487490304",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_.jpg",
+      "width": 297
+    },
+    "legacyNameText": "DiCaprio, Leonardo",
+    "name": "Leonardo DiCaprio",
+    "birthDate": "1974-11-11",
+    "birthPlace": "Hollywood, Los Angeles, California, USA",
+    "gender": "male",
+    "heightCentimeters": 182.88,
+    "nicknames": [
+      "Leo",
+      "Lenny D"
+    ],
+    "realName": "Leonardo Wilhelm DiCaprio",
+    "trademarks": [
+      "Often appears in the films of Martin Scorsese",
+      "Often plays conflicted, tortured-by-their-own-demons characters, who need to deal with their past",
+      "Often plays hard-edged anti-heroes",
+      "Intense emotional acting style",
+      "Often stars in period films or plays real-life individuals",
+      "Frequently plays men who have suffered a loss or trauma",
+      "Often plays characters who are ill-fated (e.g. The Quick and the Dead, Romeo + Juliet, Titanic, The Departed, The Great Gatsby etc.)",
+      "Often plays troubled or twisted tycoons (The Aviator, The Great Gatsby, Django Unchained and The Wolf of Wall Street)",
+      "Only uses his media presence for environmental or human rights causes."
+    ],
+    "miniBios": [
+      {
+        "author": "Pedro Borges",
+        "id": "/name/nm0000138/bio/mb0174792",
+        "language": "en",
+        "text": "Few actors in the world have had a career quite as diverse as Leonardo DiCaprio's. DiCaprio has gone from relatively humble beginnings, as a supporting cast member of the sitcom Growing Pains (1985) and low budget horror movies, such as Critters 3 (1991), to a major teenage heartthrob in the 1990s, as the hunky lead actor in movies such as Romeo + Juliet (1996) and Titanic (1997), to then become a leading man in Hollywood blockbusters, made by internationally renowned directors such as Martin Scorsese and Christopher Nolan.\n\nLeonardo Wilhelm DiCaprio was born November 11, 1974 in Los Angeles, California, the only child of Irmelin DiCaprio (née Indenbirken) and former comic book artist George DiCaprio. His father is of Italian and German descent, and his mother, who is German-born, is of German and Russian ancestry. His middle name, \"Wilhelm\", was his maternal grandfather's first name. Leonardo's father had achieved minor status as an artist and distributor of cult comic book titles, and was even depicted in several issues of American Splendor, the cult semi-autobiographical comic book series by the late 'Harvey Pekar', a friend of George's. Leonardo's performance skills became obvious to his parents early on, and after signing him up with a talent agent who wanted Leonardo to perform under the stage name \"Lenny Williams\", DiCaprio began appearing on a number of television commercials and educational programs.\n\nDiCaprio began attracting the attention of producers, who cast him in small roles in a number of television series, such as Roseanne (1988) and The New Lassie (1989), but it wasn't until 1991 that DiCaprio made his film debut in Critters 3 (1991), a low-budget horror movie. While Critters 3 (1991) did little to help showcase DiCaprio's acting abilities, it did help him develop his show-reel, and attract the attention of the people behind the hit sitcom Growing Pains (1985), in which Leonardo was cast in the \"Cousin Oliver\" role of a young homeless boy who moves in with the Seavers. While DiCaprio's stint on Growing Pains (1985) was very short, as the sitcom was axed the year after he joined, it helped bring DiCaprio into the public's attention and, after the sitcom ended, DiCaprio began auditioning for roles in which he would get the chance to prove his acting chops.\n\nLeonardo took up a diverse range of roles in the early 1990s, including a mentally challenged youth in What's Eating Gilbert Grape (1993), a young gunslinger in The Quick and the Dead (1995) and a drug addict in one of his most challenging roles to date, Jim Carroll in The Basketball Diaries (1995), a role which the late River Phoenix originally expressed interest in. While these diverse roles helped establish Leonardo's reputation as an actor, it wasn't until his role as Romeo Montague in Baz Luhrmann's Romeo + Juliet (1996) that Leonardo became a household name, a true movie star. The following year, DiCaprio starred in another movie about doomed lovers, Titanic (1997), which went on to beat all box office records held before then, as, at the time, Titanic (1997) became the highest grossing movie of all time, and cemented DiCaprio's reputation as a teen heartthrob. Following his work on Titanic (1997), DiCaprio kept a low profile for a number of years, with roles in The Man in the Iron Mask (1998) and the low-budget The Beach (2000) being some of his few notable roles during this period.\n\nIn 2002, he burst back into screens throughout the world with leading roles in Catch Me If You Can (2002) and Gangs of New York (2002), his first of many collaborations with director Martin Scorsese. With a current salary of $20 million a movie, DiCaprio is now one of the biggest movie stars in the world. However, he has not limited his professional career to just acting in movies, as DiCaprio is a committed environmentalist, who is actively involved in many environmental causes, and his commitment to this issue led to his involvement in The 11th Hour, a documentary movie about the state of the natural environment. As someone who has gone from small roles in television commercials to one of the most respected actors in the world, DiCaprio has had one of the most diverse careers in cinema. DiCaprio continued to defy conventions about the types of roles he would accept, and with his career now seeing him leading all-star casts in action thrillers such as The Departed (2006), Shutter Island (2010) and Christopher Nolan's Inception (2010), DiCaprio continues to wow audiences by refusing to conform to any cliché about actors.\n\nIn 2012, he played a mustache twirling villain in Django Unchained (2012), and then tragic literary character Jay Gatsby in The Great Gatsby (2013) and Jordan Belfort in The Wolf of Wall Street (2013).\n\nDiCaprio is passionate about environmental and humanitarian causes, having donated $1,000,000 to earthquake relief efforts in 2010, the same year he contributed $1,000,000 to the Wildlife Conservation Society."
+      }
+    ],
+    "filmography": [
+      {
+        "attr": [
+          "archiveFootage"
+        ],
+        "category": "archive_footage",
+        "characters": [
+          "Self"
+        ],
+        "roles": [
+          {
+            "character": "Self"
+          }
+        ],
+        "id": "/title/tt13891626/",
+        "image": {
+          "height": 1445,
+          "id": "/title/tt13891626/images/rm180865537",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDlmM2NkODEtN2E3ZS00N2MwLWEwZDMtMzNmMTFhN2E2MGQzXkEyXkFqcGdeQXVyNjEwOTIyNA@@._V1_.jpg",
+          "width": 2146
+        },
+        "status": "post production",
+        "title": "Hollywood Celebrity",
+        "titleType": "movie",
+        "movieCast": [
+          "nm0000775",
+          "nm3053338",
+          "nm0000093",
+          "nm0000115",
+          "nm0000246",
+          "nm0000645",
+          "nm0000138",
+          "nm0000136",
+          "nm0000206",
+          "nm0000701"
+        ]
+      },
+      {
+        "attr": [
+          "archiveFootage"
+        ],
+        "category": "archive_footage",
+        "characters": [
+          "Self"
+        ],
+        "roles": [
+          {
+            "character": "Self"
+          }
+        ],
+        "id": "/title/tt12620918/",
+        "image": {
+          "height": 1600,
+          "id": "/title/tt12620918/images/rm626305025",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzQ5NDZjNGMtZGFmNi00ZWFlLThhNTYtMTAxMzExODA2MzY2XkEyXkFqcGdeQXVyMjQ2OTkxOTM@._V1_.jpg",
+          "width": 1200
+        },
+        "status": "filming",
+        "title": "Cannes - A Film makers story",
+        "titleType": "movie",
+        "year": 2023,
+        "movieCast": [
+          "nm1032473",
+          "nm0000098",
+          "nm3154303",
+          "nm0829576",
+          "nm6441195"
+        ]
+      }
+    ],
+    "actorsRelation": [
+      "nm0000775",
+      "nm3053338",
+      "nm0000093",
+      "nm0000115",
+      "nm0000246",
+      "nm0000645",
+      "nm0000138",
+      "nm0000136",
+      "nm0000206",
+      "nm0000701",
+      "nm1032473",
+      "nm0000098",
+      "nm3154303",
+      "nm0829576",
+      "nm6441195"
+    ]
+  },
+  "nm0676292": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Cast of Baby Daddy"
+    ],
+    "id": "/name/nm0676292/",
+    "image": {
+      "height": 400,
+      "id": "/name/nm0676292/images/rm3030751232",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTIxMjUyNTA1MF5BMl5BanBnXkFtZTYwODUwMTA2._V1_.jpg",
+      "width": 290
+    },
+    "legacyNameText": "Peterman, Melissa",
+    "name": "Melissa Peterman",
+    "birthDate": "1971-07-01",
+    "birthPlace": "Minneapolis, Minnesota, USA",
+    "gender": "female",
+    "heightCentimeters": 177.8,
+    "realName": "Melissa Margaret Peterman",
+    "spouses": [
+      {
+        "attributes": "(1 child)",
+        "current": true,
+        "fromDate": "1999-06-05",
+        "id": "/name/nm0103650/",
+        "name": "John Brady"
+      }
+    ],
+    "miniBios": [
+      {
+        "author": "Ryan McIntosh",
+        "id": "/name/nm0676292/bio/mb0027913",
+        "language": "en",
+        "text": "Actress, Melissa Peterman, is from Minneapolis, Minnesota, USA. After graduating from Minnesota State University with theater as one of her majors, she was cast as \"Madeline Monroe\" in Hey City Theater's production of \"Tony & Tina's Wedding\". After more than 600 performances, she went on to work as a writer and performer at the improvisational comedy theater, \"The Brave New Workshop\". While with \"The Brave New Workshop\", she also performed at the \"Chicago Improv Festival\" and the \"Big Stink Comedy Festival\" in Austin, Texas. She made her film debut, with character role, \"Hooker #2\" in the Coen brothers' Oscar-winning movie, Fargo (1996). On TV, she appeared in the Oxygen sketch comedy show, Running with Scissors (2000) and guest-starred on Just Shoot Me! (1997). Actress, Melissa Peterman lives in Los Angeles, California, with her husband & actor, John Brady + their son, Riley David Brady. The duo became parents on Thursday, October 20th, 2005. Their parenthood began 2,329 days, (332 weeks & 5 days), after their matrimony occurred on Saturday, June 5th, 1999.\n\nMelissa Peterman's date of birth, Thursday, July 1st, 1971, & her motherhood date, Thursday, October 20th, 2005, differs 12,600 days, equaling 1,800 weeks exactly."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm3053338": {
+    "@type": "imdb.api.name.bio",
+    "id": "/name/nm3053338/",
+    "image": {
+      "height": 1332,
+      "id": "/name/nm3053338/images/rm1008443648",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgxNDcwMzU2Nl5BMl5BanBnXkFtZTcwNDc4NzkzOQ@@._V1_.jpg",
+      "width": 1000
+    },
+    "legacyNameText": "Robbie, Margot",
+    "name": "Margot Robbie",
+    "birthDate": "1990-07-02",
+    "birthPlace": "Dalby, Queensland, Australia",
+    "gender": "female",
+    "heightCentimeters": 167.64,
+    "realName": "Margot Elise Robbie",
+    "spouses": [
+      {
+        "current": true,
+        "fromDate": "2016-12-18",
+        "id": "/name/nm3943537/",
+        "name": "Tom Ackerley"
+      }
+    ],
+    "trademarks": [
+      "Striking blue eyes"
+    ],
+    "miniBios": [
+      {
+        "author": "Pedro Borges",
+        "id": "/name/nm3053338/bio/mb0140717",
+        "language": "en",
+        "text": "Margot Elise Robbie was born on July 2, 1990 in Dalby, Queensland, Australia to Scottish parents. Her mother, Sarie Kessler, is a physiotherapist, and her father, is Doug Robbie. She comes from a family of four children, having two brothers and one sister. She graduated from Somerset College in Mudgeeraba, Queensland, Australia, a suburb in the Gold Coast hinterland of South East Queensland, where she and her siblings were raised by their mother and spent much of her time at the farm belonging to her grandparents. In her late teens, she moved to Melbourne, Victoria, Australia to pursue an acting career.\n\nFrom 2008-2010, Robbie played the character of Donna Freedman in the long-running Australian soap opera, Neighbours (1985), for which she was nominated for two Logie Awards. She set off to pursue Hollywood opportunities, quickly landing the role of Laura Cameron on the short-lived ABC series, Pan Am (2011). She made her big screen debut in the film, About Time (2013).\n\nRobbie rose to fame co-starring alongside Leonardo DiCaprio, portraying the role of Naomi Lapaglia in Martin Scorsese's Oscar nominated film, The Wolf of Wall Street (2013). She was nominated for a Breakthrough Performance MTV Movie Award, and numerous other awards.\n\nIn 2014, Robbie founded her own production company, LuckyChap Entertainment. She also appeared in the World War II romantic-drama film, Suite Française (2014). She starred in Focus (2015) and Z for Zachariah (2015), and made a cameo in The Big Short (2015).\n\nIn 2016, she married Tom Ackerley in Byron Bay, New South Wales, Australia.\n\nShe starred as Jane Porter in The Legend of Tarzan (2016), Tanya Vanderpoel in Whiskey Tango Foxtrot (2016) and as DC comics villain Harley Quinn in Suicide Squad (2016), for which she was nominated for a Teen Choice Award, and many other awards.\n\nShe portrayed figure skater Tonya Harding in the biographical film I, Tonya (2017), receiving critical acclaim and a Golden Globe Award nomination for Best Actress - Motion Picture Comedy or Musical."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0004730": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Orson & Carolyn"
+    ],
+    "id": "/name/nm0004730/",
+    "image": {
+      "height": 400,
+      "id": "/name/nm0004730/images/rm721459712",
+      "url": "https://m.media-amazon.com/images/M/MV5BNjY5MTIwMzAyMl5BMl5BanBnXkFtZTYwNDY5Mjgz._V1_.jpg",
+      "width": 275
+    },
+    "legacyNameText": "Bean, Orson",
+    "name": "Orson Bean",
+    "birthDate": "1928-07-22",
+    "birthPlace": "Burlington, Vermont, USA",
+    "deathCause": "struck by car",
+    "deathDate": "2020-02-07",
+    "deathPlace": "Venice, Los Angeles, California, USA",
+    "gender": "male",
+    "heightCentimeters": 183,
+    "isDead": true,
+    "realName": "Dallas Frederick Burrows",
+    "spouses": [
+      {
+        "attributes": "(his death)",
+        "fromDate": "1993-04-18",
+        "id": "/name/nm0589896/",
+        "name": "Alley Mills",
+        "toDate": "2020-02-07"
+      },
+      {
+        "attributes": "(divorced) (3 children)",
+        "fromDate": "1965-10-03",
+        "id": "/name/nm0561669/",
+        "name": "Carolyn Maxwell",
+        "toDate": "1981"
+      },
+      {
+        "attributes": "(divorced) (1 child)",
+        "fromDate": "1956-07-02",
+        "id": "/name/nm4389274/",
+        "name": "Rain Winslow",
+        "toDate": "1962"
+      }
+    ],
+    "miniBios": [
+      {
+        "author": "Jon C. Hopwood",
+        "id": "/name/nm0004730/bio/mb0002496",
+        "language": "en",
+        "text": "Orson Bean, the American actor, television personality and author, was born Dallas Frederick Burrows on July 22, 1928 in Burlington, Vermont to George Frederick Burrows, a policeman who later went on to become the chief of campus police at Harvard University, and the former Marion Ainsworth Pollard. He was of Irish, Scottish, and English descent. Through the latter, the newborn Dallas Burrows was a first cousin, twice removed, to Calvin Coolidge, who was President of the United States at the time of his birth. The young Dallas, an amateur magician with a taste for the limelight, graduated from Boston's prestigious Latin School in 1946. Too young to see military service during World War II, the future Orson Bean did a hitch in the U.S. Army (1946-47) in occupied Japan.\n\nAfter the war, he launched himself onto the nightclub circuit with his new moniker, the \"Orson\" borrowed from reigning enfant terrible Orson Welles. His comedy act premiered at New York City's Blue Angel nightclub, and the momentum from his act launched him into the orbit of the legitimate theater. He made his Broadway debut on April 30, 1954 in Stalag 17 (1953) producer Richard Condon's only Broadway production as a playwright, \"Men of Distinction\", along with Robert Preston and Martin Ritt. The play flopped and ran only four appearances.\n\nThe following year was to prove kinder: he hosted a summer-replacement television series produced at the Blue Angel, and won a Theatre World Award for his work in the 1954 music revue \"John Murray Anderson's Almanac\", which co-starred Harry Belafonte, Polly Bergen, Hermione Gingold and Carleton Carpenter. It was a hit that ran for 229 performances. He followed this up with an even bigger hit, the leading role in \"Will Success Spoil Rock Hunter\". Next up was a succès d'estime as the leading man in Herman Wouk's comic play \"Nature's Way\", which co-starred Bea Arthur, Sorrell Booke and Godfrey Cambridge. Though the play lasted but 67 performances, Orson Bean had established himself on the Broadway stage.\n\nHe enjoyed his greatest personal success on Broadway in the 1961-62 season, in the Betty Comden and Adolph Green musical \"Subways are for Sleeping\", which was directed and choreographed by Michael Kidd and featured music by Jule Styne. Bean received a Tony Award nomination for Best Featured Actor in a Musical (his co-star Phyllis Newman won a Tony Award as Best Featured Actress in a Musical). The following season, he was in a bigger hit, the comedy \"Never Too Late\", which would go on to play for 1,007 performances. After appearing in the flop comedy \"I Was Dancing\" in November 1964, Bean made his last Broadway appearance in the musical \"Illya Darling\" in 1967 with Melina Mercouri, directed by fellow blacklister Jules Dassin; it played 320 performances. He also toured in the Neil Simon-Burt Bacharach musical \"Promises, Promises\".\n\nBean made an impression as the Army psychiatrist in Otto Preminger's Anatomy of a Murder (1959). But it was as a television personality that he made his biggest inroads into the popular consciousness, as well as the popular culture. He appeared in numerous quiz and talk shows, becoming a familiar face in homes as a regular panelist on To Tell the Truth (1956). He also appeared on Norman Lear's cult favorite Mary Hartman, Mary Hartman (1976) and its sequel, Forever Fernwood (1977), as \"Reverend Brim\", and as store owner \"Loren Bray\" on Dr. Quinn, Medicine Woman (1993). Much of his role as 105-year-old \"Dr. Lester\" in the cult film Being John Malkovich (1999) wound up the cutting room floor, but audiences and critics welcomed back his familiar presence."
+      }
+    ],
+    "filmography": [
+      {
+        "category": "self",
+        "characters": [
+          "Self - Interviewee"
+        ],
+        "roles": [
+          {
+            "character": "Self - Interviewee"
+          }
+        ],
+        "id": "/title/tt18470106/",
+        "status": "released",
+        "title": "Boris Karloff: The Rest of the Story",
+        "titleType": "movie",
+        "year": 2022,
+        "movieCast": [
+          "nm0004717",
+          "nm0041395",
+          "nm0004730"
+        ]
+      }
+    ],
+    "actorsRelation": [
+      "nm0004717",
+      "nm0041395",
+      "nm0004730"
+    ]
+  },
+  "nm1869577": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Pritan Shrestha"
+    ],
+    "id": "/name/nm1869577/",
+    "image": {
+      "height": 352,
+      "id": "/name/nm1869577/images/rm2737723904",
+      "url": "https://m.media-amazon.com/images/M/MV5BOTMxYzViZTEtZWYyMi00NGFlLWJkYmYtMDA5ZDJjYTdjNjkyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+      "width": 373
+    },
+    "legacyNameText": "Ambroase, Pritan",
+    "name": "Pritan Ambroase",
+    "gender": "male",
+    "miniBios": [
+      {
+        "author": "Sam S.",
+        "id": "/name/nm1869577/bio/mb0575890",
+        "language": "en",
+        "text": "Pritan Ambroase, originally from Kent in England, continues to be globally praised for combining entertainment, philanthropy and education to further humanitarianism to unite people all over the world. He is a media-entrepreneur, producer, film director, writer, motivational speaker, talk show host and philanthropist who actively and physically takes part in human rights activism across all borders. He is the CEO/editor-in-chief of Hollywood Insider - a media network. It is under his leadership that the network transformed into what it is today. The re-engineered Hollywood Insider with his guidance, fully focuses on substance and meaningful entertainment, so as to utilize media as a tool to unite and better our world, by combining entertainment, education and philanthropy, while being against gossip and scandal and catering equally to the masses and individuals/small communities alike, global stories from its own local perspective.\n\nAlongside his career in entertainment and media, Ambroase continues to be a passionate humanitarian and a constant human rights activist/advocate. At the age of 19, he started the Humans of our World Foundation that has helped issues in over 185 countries. He named it that specific name as he wanted humans all over the world to unite regardless of mental/political/physical borders. His foundation's official supporters are heavyweights such as Dame Judi Dench, Adrien Brody, Joanna Lumley, Amanda Holden, Bear Grylls, Andy Serkis etc. The foundation actively supports over 32 causes.\n\nAmbroase has also previously been honored by the most prestigious Venice Film Festival and has made multiple official appearances at the festival, he wholeheartedly supports VFF as it aligns with his own values. VFF brings together a world of talent and artists in the name of cinema regardless of political borders and that is exactly what Ambroase is passionate about.\n\nPritan moved from Kent, England to California for college, although his schooling from elementary to high school was completed in over 11 different schools - 6 of which were boarding schools, in 7 different countries, 3 different continents, and multiple cities. He was 5 years old when he was first enrolled into elite boarding schools. He credits his humanitarian values to his diverse schooling and global upbringing, which immersed him in a variety of cultures, languages, religions, lifestyles and perspectives which according to him, has left him with no choice but to unite humans all over the world as there are more similarities than differences.\n\nAmbroase began public speaking at the young age of 8, and by 14 he was seen acting as Master Of Ceremonies for events hosted by the leader of the Conservative Party, Lord Michael Howard, in United Kingdom. After garnering multiple awards for acting and writing plays for the stage as well as well radio, he was discovered by his talent agent. A radio play written by Ambroase on the life of Archbishop of Canterbury, Thomas A Becket, won the Best Radio Play award, in which he also voiced the lead role of Becket.\n\nIn theatre, Pritan won accolades and received multiple standing ovations for playing complex lead roles in the dramatic genre. His first ever audition landed him a starring role on a primetime series after impressing the director who thought he was a veteran. After his first TV show, he went back to complete high school as education was important to him. 2005 saw Pritan completing his second script at 17 years old, although he had written his first script at 12 years old. At 19, he became the youngest person in England to be funded, by National Lottery programs such as Unltd and Big Boost, to direct a film. Pritan acted as the lead as well as the director with an international cast and crew. Pritan's performance as a blind teenager won accolades and the film went on to be showcased at Cannes Film Festival 2007, and was critically acclaimed. After Cannes, the film was also showcased at the Edinburgh Film Festival in 2007. 2006 also saw Pritan establish his personal philanthropic foundation HUMANS OF OUR WORLD, at the age of 19, and his goal was to combine entertainment, philanthropy and education to unite the world, regardless of segregation and differences, and make the world a better place. As an initiative of his foundation, for his first film, Pritan also hired local underprivileged youths to work on the film in various crew roles and help them get more experience. In the past decade, his foundation has helped millions of people in over 185 countries.\n\nAgainst his agent's advice due to multiple offers from directors and producers in USA and UK, Pritan chose to attend college in California instead and paused his acting career for the time being. Upon graduation from his college in California, Pritan went on to spread education of peace globally by working for a non-profit organization in England. He also joined his family group of companies and was appointed as President of a group of companies.\n\nAfter several years as President of his group of companies, due to his heart always being in media and entertainment, since 2017, Pritan has been fully involved in the entertainment industry and has already hosted multiple shows. Shows such as MAKE YOURSELF GREAT AGAIN, UP CLOSE & PERSONAL, POWERFUL QUESTIONS has seen Pritan show his range as host from inspirational and deep topics topics to ones with comedic timing. Pritan also produced, directed and hosted MESSAGES FROM AMERICA, a show which gave a voice to everyday civilians in America and showed to the world what people in USA think on important topics such as immigration, refugees, religion, human rights, presidency, education, healthcare, etc - the world usually only hears what American politicians and presidents think - this series which has been going for two seasons has shown to the world that civilians Americans have their own mind too that may be different to their politicians.\n\nAfter making multiple appearances at Venice Film Festival, Pritan praised the institution for uniting the world through art, cinema and talent regardless of political borders and segregation, a quality which aligns with Pritan's humanitarian values and his foundation Humans Of Our World. Pritan is a regular on the front rows of New York Fashion Week, red carpet movie premieres and has served as face and spokesperson for multiple high profile luxury brands.\n\nSince 2018, Pritan has been seen as host for multiple shows for Hollywood Insider. Along with him and his foundation partnering with high-profile stars and Hollywood Insider on a humanitarian campaign - he is also producing and directing the documentary and also the initiative which provides assistance to villagers in Nepal, Africa, South America, etc with the partnership of celebrities such as Dame Judi Dench, Adrien Brody, Joanna Lumley, Amanda Holden, Bear Grylls, Andy Serkis, etc. Dame Judi Dench's belief in the work of Pritan's foundation Humans Of Our World has led her to personally finance and donate to their Nepal campaign which has helped remotest villages in Nepal with medical care.\n\nAmbroase continues on with his passion for cinema, entertainment and media and he utilizes his media network Hollywood Insider to make the world a better place by utilizing it to focus on substance and meaningful matters. Ambroase remarks, \"When artists, cinema, media, positive intention and humanitarianism combine into one that creates a beautiful symphony of love, loyalty and unity which vibrates across the highest walls.\""
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0004717": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Peter & Gordon",
+      "Peter and Gordon",
+      "Peter und Gordon"
+    ],
+    "id": "/name/nm0004717/",
+    "image": {
+      "height": 400,
+      "id": "/name/nm0004717/images/rm2304416512",
+      "url": "https://m.media-amazon.com/images/M/MV5BNzYzMzYxNzMwNl5BMl5BanBnXkFtZTYwNDk0NjA1._V1_.jpg",
+      "width": 275
+    },
+    "legacyNameText": "Asher, Peter",
+    "name": "Peter Asher",
+    "birthDate": "1944-06-22",
+    "birthPlace": "London, England, UK",
+    "gender": "male",
+    "heightCentimeters": 167.64,
+    "spouses": [
+      {
+        "attributes": "(1 child)",
+        "current": true,
+        "fromDate": "1983",
+        "name": "Wendy Worth"
+      }
+    ],
+    "miniBios": [
+      {
+        "id": "/name/nm0004717/bio/bo418431904",
+        "language": "en",
+        "text": "Peter Asher was born on June 22, 1944 in London, England, UK. He is an actor and producer, known for Armageddon (1998), De-Lovely (2004) and Madagascar 3: Europe's Most Wanted (2012). He has been married to Wendy Worth since 1983. They have one child."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0000233": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Q",
+      "Quentin Tarrantino"
+    ],
+    "id": "/name/nm0000233/",
+    "image": {
+      "height": 2048,
+      "id": "/name/nm0000233/images/rm4146963200",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_.jpg",
+      "width": 1335
+    },
+    "legacyNameText": "Tarantino, Quentin",
+    "name": "Quentin Tarantino",
+    "birthDate": "1963-03-27",
+    "birthPlace": "Knoxville, Tennessee, USA",
+    "gender": "male",
+    "heightCentimeters": 185.42,
+    "nicknames": [
+      "QT",
+      "Q"
+    ],
+    "realName": "Quentin Jerome Tarantino",
+    "spouses": [
+      {
+        "attributes": "(2 children)",
+        "current": true,
+        "fromDate": "2018-11-28",
+        "id": "/name/nm1825010/",
+        "name": "Daniella Pick"
+      }
+    ],
+    "trademarks": [
+      "Lead characters usually drive General Motors vehicles, particularly Chevrolet and Cadillac, such as Jules' 1974 Nova and Vincent's 1960s Malibu.",
+      "Briefcases and suitcases play an important role in Pulp Fiction (1994), Reservoir Dogs (1992), Jackie Brown (1997), True Romance (1993) and Kill Bill: Vol. 2 (2004).",
+      "Makes references to cult movies and television",
+      "Frequently works with Tim Roth, Harvey Keitel, Kurt Russell, Michael Madsen, Uma Thurman, Michael Bowen, Samuel L. Jackson, Michael Parks and Christoph Waltz.",
+      "His films usually have a shot from inside an automobile trunk",
+      "He always has a Dutch element in his films: The opening tune, \"Little Green Bag\", in Reservoir Dogs (1992) was performed by George Baker Selection and written by Jan Gerbrand Visser and Benjamino Bouwens who are all Dutch. The character Freddy Newandyke, played by Tim Roth is a direct translation to a typical Dutch last name, Nieuwendijk. The code name of Tim Roth is Mr. Orange, the royal color of Holland and the last name of the royal family. The Amsterdam conversation in Pulp Fiction (1994), Vincent Vega smokes from a Dutch tobacco shag (Drum), the mentioning of Rutger Hauer in Jackie Brown (1997), the bride's name is Beatrix, the name of the Royal Dutch Queen.",
+      "[The Mexican Standoff] All his movies (including True Romance (1993), which he only wrote and did not direct) feature a scene in which three or more characters are pointing guns at each other at the same time.",
+      "Often uses an unconventional storytelling device in his films, such as retrospect (Reservoir Dogs (1992)), non-linear (Pulp Fiction (1994)), or \"chapter\" format (Kill Bill: Vol. 1 (2003)).",
+      "His films will often include one long, unbroken take where a character is  followed around somewhere.",
+      "Often casts comedians in small roles: Steven Wright as the disc jockey in Reservoir Dogs (1992), Kathy Griffin as an accident witness and Julia Sweeney as the junkyard guy's daughter in Pulp Fiction (1994), Chris Tucker as Beaumont in Jackie Brown (1997), Mike Myers as General Ed Fenech in Inglourious Basterds (2009), and Jonah Hill in Django Unchained (2012).",
+      "Widely imitated quick cuts of character's hands performing actions in extreme  closeup, a technique reminiscent of Brian De Palma.",
+      "Long close-up of a person's face while someone else speaks off-screen (close-up of The Bride while Bill talks, of Butch while Marsellus talks).",
+      "[Aliases] He uses aliases in nearly all of his movies: Honey Bunny and Pumpkin from Pulp Fiction (1994), Mr. White, Blonde, Orange etc. from Reservoir Dogs (1992). Bill's team in Kill Bill: Vol. 1 (2003) (Black Mamba, Copperhead, Cottonmouth, and California Mountain Snake), The Basterds and other major characters in Inglourious Basterds (2009).",
+      "[Director's Cameo] Often plays a small role in all his films (ex.) (Mr. Brown in Reservoir Dogs (1992), Jimmie Dimmick in Pulp Fiction (1994), the answering machine voice in Jackie Brown (1997), The Rapist in Grindhouse (2007) and Warren in Death Proof (2007)).",
+      "Frequently uses mêlée weapons, such as the \"samurai sword\" (Katana) that Butch uses in Pulp Fiction (1994) and The Bride uses in the Kill Bill films, also the stake attached to a jackhammer used by George Clooney in From Dusk Till Dawn (1996).",
+      "Extreme violence, much of which is suggested off-screen",
+      "Frequently has a female character who wears a black and white pant suit (Uma Thurman in Pulp Fiction (1994), Pam Grier in Jackie Brown (1997), Daryl Hannah in Kill Bill: Vol. 2 (2004)).",
+      "Often creates fictional brands of objects due to his dislike of product placement. The Red Apple cigarettes and Big Kahuna burger established in Pulp Fiction (1994) are often referenced in his other films.",
+      "Frequently sets his films in Los Angeles, California",
+      "Often frames characters with doorways and shows them opening and closing doors.",
+      "Minor character dialogue is off-screen in his films",
+      "A character cooly talks through an intense situation, either delaying the occurrence of violence or avoiding it through resolution.",
+      "Interjects scenes with introduction of a character's background (Hugo Stieglitz is introduced in the middle of the Nazi torture scene in Inglourious Basterds (2009), O-Ren is introduced with an interuption in the main story in Kill Bill: Vol. 1 (2003)).",
+      "Frequently uses Spanish classical guitar for the soundtracks",
+      "Known for giving comebacks to \"forgotten\" actors and/or cult actors by giving them important roles in his movies: John Travolta (Pulp Fiction (1994)), David Carradine (Kill Bill: Vol. 2 (2004)), Lawrence Tierney (Reservoir Dogs (1992)), Pam Grier (Jackie Brown (1997)), Robert Forster (Jackie Brown (1997)), Shin'ichi Chiba (Kill Bill: Vol. 1 (2003))... even in smaller/cameo roles: Sid Haig (Jackie Brown (1997), Kill Bill: Vol. 2 (2004)), Edward Bunker (Reservoir Dogs (1992)), Rod Taylor (Inglourious Basterds (2009)) and Michael Parks (Kill Bill: Vol. 1 (2003), From Dusk Till Dawn (1996)), most recently with Jennifer Jason Leigh (The Hateful Eight (2015)).",
+      "Frequently references his home state Tennessee in his films: In Pulp Fiction (1994), Butch plans to meet his connection in Knoxville, which is also where his grandfather bought the gold watch; the song \"Tennessee Stud\" by Johnny Cash appears in Jackie Brown (1997); Death Proof (2007) is set in Lebanon, Tennessee; Lt. Aldo Raine in Inglourious Basterds (2009) hails from Maynardville, Tennessee.",
+      "Often interjects titles to tell the audience of a new portion of the story. (Character names in Reservoir Dogs (1992), Chapter form in Inglourious Basterds (2009), Explanations of what audience will see such as in Pulp Fiction (1994))",
+      "Characters frequently use the phrase bingo",
+      "Prefers to start most of his films with a scene before the main titles are shown",
+      "Most of his films feature one or more scenes in a restaurant",
+      "Characters often utilize sharp, bladed weapons. (Mr. Blonde uses a straight razor to cut off Marvin Nash's ear in Reservoir Dogs (1992), Butch uses a samurai sword to kill Maynard in Pulp Fiction (1994), The Bride uses a samurai sword to kill several characters in Kill Bill: Vol. 1 (2003) and Kill Bill: Vol. 2 (2004), Lt. Aldo Raine uses a Bowie knife to cut a swastika in Colonel Hans Landa's forehead in Inglourious Basterds (2009), Vernita Greene fights The Bride with a butcher knife in Kill Bill: Vol. 1 (2003))",
+      "Often shows a relationship between an older experienced character and a younger character in a manner similar to a parent or teacher",
+      "His characters often discuss their favorite films or series while carrying out their activities",
+      "His films often feature at least one character who is deeply religious or spiritual and tries to reconcile that faith with their actions (Jules in Pulp Fiction (1994), Jacob in From Dusk Till Dawn (1996)).",
+      "Revenge is a common theme in his films",
+      "Often frames dialogue scenes around a character preparing food, usually intercut with close-ups of their hands and food items: Vernita Green making her daughter cereal in Kill Bill: Vol. 1 (2003), Bill making B.B. a sandwich in Kill Bill: Vol. 2 (2004), Hans Landa offering Shosanna Dreyfus a strudel in Inglourious Basterds (2009), King Schultz pouring beers in Django Unchained (2012).",
+      "Usually when giving an interview, he will greet the audience with a peace sign",
+      "Many of his protagonists are morally suspect, violent-tempered individuals who ultimately best their antagonists by outmatching them in sheer brutality",
+      "Colorful main antagonists with an elaborately thoughtout, vivid but extremely twisted (and often bigoted) world view and philosophy",
+      "Scenes are more often than not loaded with homages or visual references to other director's works",
+      "Often times, the violence in his films is over exagerrated and rooted in a darkly comic context.",
+      "Never includes his name in a director's credit in the opening titles of his films. The credits always end with the name of his producer(s).",
+      "Soundtracks often feature dialogue from their respective films.",
+      "It is common for the antagonist character in Quentin Tarantino films to have a low or non-existent on-screen body count, although many can be seen to torture others, kill off-screen or order others to kill. Mr. Blonde from Reservoir Dogs (1992), Marsellus Wallace from Pulp Fiction (1994), Bill from Kill Bill: Vol. 1 (2003) and Kill Bill: Vol. 2 (2004) and Calvin Candie from Django Unchained (2012) don't kill anyone on-screen, Hans Landa from Inglourious Basterds (2009) kills one person on-screen, Ordell from Jackie Brown (1997) kills two on-screen but Stuntman Mike from Death Proof (2007) kills several on-screen.",
+      "Almost always uses pre-recorded music for his films",
+      "Frantic scenes are often intercut with a character taking their time and behaving methodically",
+      "His films usually pay a homage to genres that were highly popular in the 1960s and 1970s such as Heist (Reservoir Dogs), Blaxploitation (Jackie Brown), Kung Fu (Kill Bill), and Spaghetti Western (Django Unchained)",
+      "His characters often pretend to be people they are not.",
+      "His films often feature a plan that goes horribly wrong.",
+      "His films often subvert cliches of certain genres (ex. Reservoir Dogs is a heist movie where the actual heist is never shown).",
+      "His films often makes usage of voiceovers or narration.",
+      "Recurring theme of honor among criminals"
+    ],
+    "miniBios": [
+      {
+        "author": "Kale Whorton <nikko11@mind.net>",
+        "id": "/name/nm0000233/bio/mb0035027",
+        "language": "en",
+        "text": "Quentin Jerome Tarantino was born in Knoxville, Tennessee. His father, Tony Tarantino, is an Italian-American actor and musician from New York, and his mother, Connie (McHugh), is a nurse from Tennessee. Quentin moved with his mother to Torrance, California, when he was four years old.\n\nIn January of 1992, first-time writer-director Tarantino's Reservoir Dogs (1992) appeared at the Sundance Film Festival. The film garnered critical acclaim and the director became a legend immediately. Two years later, he followed up Dogs success with Pulp Fiction (1994) which premiered at the Cannes film festival, winning the coveted Palme D'Or Award. At the 1995 Academy Awards, it was nominated for the best picture, best director and best original screenplay. Tarantino and writing partner Roger Avary came away with the award only for best original screenplay. In 1995, Tarantino directed one fourth of the anthology Four Rooms (1995) with friends and fellow auteurs Alexandre Rockwell, Robert Rodriguez and Allison Anders. The film opened December 25 in the United States to very weak reviews. Tarantino's next film was From Dusk Till Dawn (1996), a vampire/crime story which he wrote and co-starred with George Clooney. The film did fairly well theatrically.\n\nSince then, Tarantino has helmed several critically and financially successful films, including Jackie Brown (1997), Kill Bill: Vol. 1 (2003), Kill Bill: Vol. 2 (2004), Inglourious Basterds (2009), Django Unchained (2012) and The Hateful Eight (2015)."
+      }
+    ],
+    "filmography": [
+      {
+        "episodeAppearances": "/name/nm0000233/filmography/tt11101140",
+        "category": "archive_footage",
+        "characters": [
+          "Self"
+        ],
+        "endYear": 2022,
+        "episodeCount": 1,
+        "roles": [
+          {
+            "character": "Self",
+            "episodeCount": 1
+          }
+        ],
+        "startYear": 2022,
+        "id": "/title/tt11101140/",
+        "image": {
+          "height": 630,
+          "id": "/title/tt11101140/images/rm2148107009",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjVlM2JlZTQtM2IyYy00ZTU2LTk2NTItOTI4OTk0OGE3MjhmXkEyXkFqcGdeQXVyNzExMzc0MDg@._V1_.jpg",
+          "width": 1200
+        },
+        "status": "released",
+        "title": "Nerdrotic",
+        "titleType": "tvSeries",
+        "year": 2016,
+        "episodes": [
+          {
+            "attr": [
+              "archiveFootage"
+            ],
+            "category": "archive_footage",
+            "characters": [
+              "Self"
+            ],
+            "roles": [
+              {
+                "character": "Self"
+              }
+            ],
+            "id": "/title/tt23987220/",
+            "image": {
+              "height": 1170,
+              "id": "/title/tt23987220/images/rm685193217",
+              "url": "https://m.media-amazon.com/images/M/MV5BOWMwNzVjNGYtMGVkMS00MzE2LWJlN2ItNjZhNDk2OWJjNDRmXkEyXkFqcGdeQXVyNzExMzc0MDg@._V1_.jpg",
+              "width": 2211
+            },
+            "status": "released",
+            "title": "Woke Hollywood is FAILING, and That's a Good Thing",
+            "titleType": "tvEpisode",
+            "year": 2022,
+            "releaseDate": "2022-12-01"
+          }
+        ],
+        "seriesStartYear": 2016,
+        "movieCast": [
+          "nm10691339"
+        ]
+      },
+      {
+        "episodeAppearances": "/name/nm0000233/filmography/tt14194166",
+        "category": "archive_footage",
+        "characters": [
+          "Self"
+        ],
+        "endYear": 2022,
+        "episodeCount": 1,
+        "roles": [
+          {
+            "character": "Self",
+            "episodeCount": 1
+          }
+        ],
+        "startYear": 2022,
+        "id": "/title/tt14194166/",
+        "image": {
+          "height": 900,
+          "id": "/title/tt14194166/images/rm3974221313",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDRlNjcxZjAtNGQ3Yi00MTcwLWE5NDQtZDFlYjZjOTI0NDk5XkEyXkFqcGdeQXVyNzExMzc0MDg@._V1_.jpg",
+          "width": 900
+        },
+        "status": "released",
+        "title": "Robot Head",
+        "titleType": "tvSeries",
+        "year": 2018,
+        "episodes": [
+          {
+            "attr": [
+              "archiveFootage"
+            ],
+            "category": "archive_footage",
+            "characters": [
+              "Self"
+            ],
+            "roles": [
+              {
+                "character": "Self"
+              }
+            ],
+            "id": "/title/tt23987002/",
+            "status": "released",
+            "title": "Tarantino Destroys Marvel",
+            "titleType": "tvEpisode",
+            "year": 2022,
+            "releaseDate": "2022-12-01"
+          }
+        ],
+        "seriesStartYear": 2018,
+        "movieCast": []
+      }
+    ],
+    "actorsRelation": [
+      "nm10691339"
+    ]
+  },
+  "nm11876654": {
+    "@type": "imdb.api.name.bio",
+    "id": "/name/nm11876654/",
+    "legacyNameText": "Avallon, Quinn",
+    "name": "Quinn Avallon",
+    "gender": "male",
+    "miniBios": [
+      {
+        "id": "/name/nm11876654/bio/bo436784662",
+        "language": "en",
+        "text": "Quinn Avallon is known for Ruby's Dad (2021), Broken Layers (2021) and Hollywood Insider (2018)."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm0424060": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Scarlett Johanssen"
+    ],
+    "id": "/name/nm0424060/",
+    "image": {
+      "height": 2048,
+      "id": "/name/nm0424060/images/rm1916122112",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg",
+      "width": 1689
+    },
+    "legacyNameText": "Johansson, Scarlett",
+    "name": "Scarlett Johansson",
+    "birthDate": "1984-11-22",
+    "birthPlace": "Manhattan, New York City, New York, USA",
+    "gender": "female",
+    "heightCentimeters": 160.02,
+    "realName": "Scarlett Ingrid Johansson",
+    "spouses": [
+      {
+        "attributes": "(1 child)",
+        "current": true,
+        "fromDate": "2020-10",
+        "id": "/name/nm1906042/",
+        "name": "Colin Jost"
+      },
+      {
+        "attributes": "(divorced) (1 child)",
+        "fromDate": "2014-10-01",
+        "id": "/name/nm12027736/",
+        "name": "Romain Dauriac",
+        "toDate": "2017-09-12"
+      },
+      {
+        "attributes": "(divorced)",
+        "fromDate": "2008-09-27",
+        "id": "/name/nm0005351/",
+        "name": "Ryan Reynolds",
+        "toDate": "2011-07-01"
+      }
+    ],
+    "trademarks": [
+      "Often plays characters who look and act older than their age",
+      "Full lips and green eyes",
+      "Seductive husky voice",
+      "Contralto singing voice"
+    ],
+    "miniBios": [
+      {
+        "author": "Pedro Borges",
+        "id": "/name/nm0424060/bio/mb0017907",
+        "language": "en",
+        "text": "Scarlett Ingrid Johansson was born on November 22, 1984 in Manhattan, New York City, New York. Her mother, Melanie Sloan is from a Jewish family from the Bronx and her father, Karsten Johansson is a Danish-born architect from Copenhagen. She has a sister, Vanessa Johansson, who is also an actress, a brother, Adrian, a twin brother, Hunter Johansson, born three minutes after her, and a paternal half-brother, Christian. Her grandfather was writer Ejner Johansson.\n\nJohansson began acting during childhood, after her mother started taking her to auditions. She made her professional acting debut at the age of eight in the off-Broadway production of \"Sophistry\" with Ethan Hawke, at New York's Playwrights Horizons. She would audition for commercials but took rejection so hard her mother began limiting her to film tryouts. She made her film debut at the age of nine, as John Ritter's character's daughter in the fantasy comedy North (1994). Following minor roles in Just Cause (1995), as the daughter of Sean Connery and Kate Capshaw's character, and If Lucy Fell (1996), she played the role of Amanda in Manny & Lo (1996). Her performance in Manny & Lo garnered a nomination for the Independent Spirit Award for Best Lead Female, and positive reviews, one noting, \"[the film] grows on you, largely because of the charm of ... Scarlett Johansson\", while San Francisco Chronicle critic Mick LaSalle commentated on her \"peaceful aura\", and wrote, \"If she can get through puberty with that aura undisturbed, she could become an important actress.\"\n\nAfter appearing in minor roles in Fall (1997) and Home Alone 3 (1997), Johansson garnered widely spread attention for her performance in The Horse Whisperer (1998), directed by Robert Redford, where she played Grace MacLean, a teenager traumatized by a riding accident. She received a nomination for the Chicago Film Critics Association Award for Most Promising Actress for the film. In 1999, she appeared in My Brother the Pig (1999) and in the music video for Mandy Moore's single, \"Candy\". Although the film was not a box office success, she received praise for her breakout role in Ghost World (2001), credited with \"sensitivity and talent [that] belie her age\". She was also featured in the Coen Brothers' dark drama The Man Who Wasn't There (2001), opposite Billy Bob Thornton and Frances McDormand. She appeared in the horror comedy Eight Legged Freaks (2002) with David Arquette and Kari Wuhrer.\n\nIn 2003, she was nominated for two Golden Globe Awards, one for drama (Girl with a Pearl Earring (2003)) and one for comedy (Lost in Translation (2003)), her breakout role, starring opposite Bill Murray, and receiving rave reviews and a Best Actress Award at the Venice Film Festival. Her film roles include the critically acclaimed Weitz brothers' film In Good Company (2004), as well as starring opposite John Travolta in A Love Song for Bobby Long (2004), which garnered her a third Golden Globe Award nomination.\n\nShe dropped out of Mission: Impossible III (2006) due to scheduling conflicts. Her next film role was in The Island (2005) alongside Ewan McGregor which earned weak reviews from U.S. critics. After this, she appeared in Woody Allen's Match Point (2005) and was nominated again for a Golden Globe Award. In May 2008, she released her album \"Anywhere I Lay My Head\", a collection of Tom Waits covers featuring one original song. Also that year, she starred in Frank Miller's The Spirit (2008), the Woody Allen film Vicky Cristina Barcelona (2008), and played Mary Boleyn opposite Natalie Portman in The Other Boleyn Girl (2008).\n\nSince then, she has appeared as part of an ensemble cast in the romantic comedy He's Just Not That Into You (2009), the action superhero film Iron Man 2 (2010), the comedy-drama We Bought a Zoo (2011) and starred as the original scream queen, Janet Leigh, in Hitchcock (2012). She then played her character, Black Widow, in the blockbuster action films The Avengers (2012), Captain America: The Winter Soldier (2014), Avengers: Age of Ultron (2015), Captain America: Civil War (2016), Avengers: Infinity War (2018), Avengers: Endgame (2019) and Black Widow (2021), and also headlined the sci-fi action thriller Lucy (2014), a box office success. With more than a decade of work already under her belt, Scarlett has proven to be one of Hollywood's most talented young actresses. Her other starring roles are in the sci-fi action thriller Ghost in the Shell (2017) and the dark comedy Rough Night (2017).\n\nScarlett and Canadian actor Ryan Reynolds were engaged in May 2008 and married in September of that year. In 2010, the couple announced their separation, and subsequently divorced a year later. In 2013, she became engaged to French journalist Romain Dauriac, the couple married a year later. In January 2017, the couple announced their separation, and subsequently divorced in March of that year. They have a daughter, Rose Dorothy Dauriac (born 2014)."
+      }
+    ],
+    "filmography": [
+      {
+        "episodeAppearances": "/name/nm0424060/filmography/tt23854146",
+        "category": "actress",
+        "characters": [
+          "Madison Cowart"
+        ],
+        "roles": [
+          {
+            "character": "Madison Cowart"
+          }
+        ],
+        "id": "/title/tt23854146/",
+        "status": "optioned property",
+        "title": "Just Cause",
+        "titleType": "tvMiniSeries",
+        "movieCast": []
+      }
+    ],
+    "actorsRelation": []
+  },
+  "nm3154303": {
+    "@type": "imdb.api.name.bio",
+    "akas": [
+      "Timothee Chalamet",
+      "Timothy Chalamet",
+      "Lil Timmy Tim"
+    ],
+    "id": "/name/nm3154303/",
+    "image": {
+      "height": 2265,
+      "id": "/name/nm3154303/images/rm4082101761",
+      "url": "https://m.media-amazon.com/images/M/MV5BNThiOTM4NTAtMDczNy00YzlkLWJhNTEtZTZhNDVmYzlkZWI0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+      "width": 3000
+    },
+    "legacyNameText": "Chalamet, Timothée",
+    "name": "Timothée Chalamet",
+    "birthDate": "1995-12-27",
+    "birthPlace": "New York City, New York, USA",
+    "gender": "male",
+    "heightCentimeters": 177.8,
+    "nicknames": [
+      "Timo",
+      "Timmy",
+      "Tim",
+      "Timmy T",
+      "Lil Timmy Tim"
+    ],
+    "realName": "Timothée Hal Chalamet",
+    "trademarks": [
+      "Chiseled jawline"
+    ],
+    "miniBios": [
+      {
+        "author": "Tolfe",
+        "id": "/name/nm3154303/bio/mb0488751",
+        "language": "en",
+        "text": "Timothée Hal Chalamet was born in Manhattan, to Nicole Flender, a real estate broker and dancer, and Marc Chalamet, a UNICEF editor. His mother, who is from New York, is Jewish, of Russian Jewish and Austrian Jewish descent. His father, who is from Nîmes, France, is of French and English ancestry. He is the brother of actress Pauline Chalamet, a nephew of director Rodman Flender, and a grandson of screenwriter Harold Flender.\n\nHe grew up in an artistic family, appearing in commercials and the New York theatre scene, and attending the LaGuardia High School of Music, Art and Performing Arts, where his classmate and friend was actor Ansel Elgort (the two later received their first Golden Globe nominations in the same year, 2017). For a time, Timothée also attended Columbia University.\n\nHe made his film debut in 2014, as a high school student in Jason Reitman's Men, Women & Children (2014) and Matthew McConaughey's character's teenage son in Interstellar (2014). He subsequently had sizable roles in several indie films, playing the younger version of writer Stephen Elliott in The Adderall Diaries (2015), the male lead, Zac, in the drama One and Two (2015), and Billy in the road trip drama Miss Stevens (2016). On stage, he has appeared in the plays The Talls, by Anna Kerrigan, and John Patrick Shanley's autobiographical Prodigal Son, while on television, he has had a minor role in the film Loving Leah (2009), a big part in Law & Order (1990), and meatier roles on the shows Royal Pains (2009) and Homeland (2011), among other work.\n\nHe broke out in 2017, appearing in notable supporting roles, as a soldier in the western Hostiles (2017) and a high school crush of the title character in Lady Bird (2017), and in a leading role as Elio, an Italian Jewish seventeen year-old who romances his father's older assistant, played by Armie Hammer, in the Luca Guadagnino drama Call Me by Your Name (2017). Timothée's role as Elio received significant critical acclaim, and he was nominated for the Academy Award for Best Actor, and the Golden Globe Award for Best Actor, Drama, and won many critics' groups' awards for Best Actor of the Year.\n\nIn 2018, he starred as Nic Sheff, who suffers from substance abuse problems, in the drama Beautiful Boy (2018). In 2019, he will headline the Woody Allen comedy A Rainy Day in New York (2019), with Selena Gomez, play Henry V of England, King from 1413 to 1422, in the historical drama The King (2019), and embody love interest Laurie in Greta Gerwig's take on Little Women (2019)."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  },
+  "nm4043618": {
+    "@type": "imdb.api.name.bio",
+    "disambiguation": "X",
+    "id": "/name/nm4043618/",
+    "image": {
+      "height": 5472,
+      "id": "/name/nm4043618/images/rm662558465",
+      "url": "https://m.media-amazon.com/images/M/MV5BNzZiNTEyNTItYjNhMS00YjI2LWIwMWQtZmYwYTRlNjMyZTJjXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+      "width": 3648
+    },
+    "legacyNameText": "Holland, Tom (X)",
+    "name": "Tom Holland",
+    "birthDate": "1996-06-01",
+    "birthPlace": "Kingston upon Thames, England, UK",
+    "gender": "male",
+    "realName": "Thomas Stanley Holland",
+    "trademarks": [
+      "Mostly portrays inexperienced and enthusiastic kids",
+      "Solid American accent",
+      "Youthful face and voice"
+    ],
+    "miniBios": [
+      {
+        "author": "Anonymous",
+        "id": "/name/nm4043618/bio/mb0189734",
+        "language": "en",
+        "text": "Thomas Stanley Holland was born in Kingston-upon-Thames, Surrey, to Nicola Elizabeth (Frost), a photographer, and Dominic Holland (Dominic Anthony Holland), who is a comedian and author. His paternal grandparents were from the Isle of Man and Ireland, respectively. He lives with his parents and three younger brothers - Paddy and twins Sam and Harry. Tom attended Donhead Prep School. Then, after a successful eleven plus exam, he became a pupil at Wimbledon College. Having successfully completed his GCSEs, in September 2012 Tom started a two-year course in the BRIT School for Performing Arts & Technology notable for its numerous famous alumni.\n\nHolland began dancing at a hip hop class at Nifty Feet Dance School in Wimbledon, London. His potential was spotted by choreographer Lynne Page (who was an Associate to Peter Darling, choreographer of Billy Elliot and Billy Elliot the Musical) when he performed with his dance school as part of the Richmond Dance Festival 2006. After eight auditions and subsequent two years of training, on 28 June 2008 Tom made his West End debut in Billy Elliot the Musical as Michael, Billy's best friend. He gave his first performance in the title role of Billy on 8 September 2008 getting rave reviews praising his versatile acting and dancing skills.\n\nIn September 2008 Tom (together with co-star Tanner Pflueger) appeared on the news programme on channel FIVE and gave his first TV interview. In 2009 Tom was featured on ITV1 show \"The Feel Good Factor\". At the launch show on 31 January he and two other Billy Elliots, Tanner Pflueger and Layton Williams, performed a specially choreographered version of Angry Dance from Billy Elliot the Musical, after which Tom was interviewed by host Myleene Klass. Then he became involved into training five ordinary British schoolboys learning to get fit and preparing their dance routine (fronted by Tom) for the final \"The Feel Good Factor\" show on 28 March 2009. On 11 March 2010, Tom, along with fellow Billy Elliots Dean-Charles Chapman and Fox Jackson-Keen appeared on The Alan Titchmarsh Show on ITV1.\n\nOn 8 March 2010, to mark the fifth anniversary of Billy Elliot the Musical, four current Billy Elliots, including Tom Holland, were invited to 10 Downing Street to meet the Prime Minister Gordon Brown. It was Tom Holland who was chosen to be a lead at the special fifth anniversary show on 31 March 2010. Elton John, Billy Elliot the Musical composer, who was at the audience, called Tom's performance \"astonishing\" and said that he was \"blown away\" by it. Holland had been appearing on a regular basis as Billy in Billy Elliot the Musical rotating with three other performers till 29 May 2010 when he finished his run in the musical.\n\nIn two months after leaving Billy Elliot the Musical, Holland successfully auditioned for a starring role in the film The Impossible (directed by Juan Antonio Bayona) alongside Naomi Watts and Ewan McGregor. The Impossible was based on a true story that took place during the 2004 Indian Ocean earthquake. The film premiered at the Toronto International Film Festival on September 9, 2012, and was released in Europe in October 2012, and in North America in December 2012.\n\nTom has received universal praise for his performance, in particular: \"What a debut, too, from Tom Holland as the eldest of their three lads\" (The Telegraph); \"Tom Holland, making one of the finest feature debuts in years\" (HeyUGuys); \"the excellent Tom Holland\" (The Guardian); \"The child performers are uncanny and there is an especially terrific performance from Tom Holland as the resourceful, levelheaded Lucas terrified but tenacious in the face of an unspeakable ordeal\" (Screen Daily); \"Young Holland in particular is astonishingly good as the terrified but courageous Lucas.\" (The Hollywood Reporter); \"However, the real acting standout in The Impossible is the performance of Tom Holland as the eldest son Lucas. His portrayal is genuine, and at no moment does it feel melodramatic and forced. The majority of his scenes are separate from the lead actors and for the most part it feels like The Impossible is Holland's film\" (Entertainment Maven); \"Mr. Holland, meanwhile, matures before our eyes, navigating the passage from adolescent self-absorption to profound and terrible responsibility. He is a terrific young actor\" (New York Times).\n\nTom has given a number of interviews about his role in The Impossible. In particular, he talked on video to Vanity Fair Senior West Coast editor Krista Smith and with IAMROGUE's Managing Editor Jami Philbrick. He has also given interviews to The Hollywood Reporter, to the MovieWeb, to Today Show on NBC and to other outlets. Tom's director and co-stars have also talked about him. Juan Antonio Bayona: \"He had this extraordinary ability to get into the emotion and portray it in a very, very easy way. The best I'd ever seen in a kid.\" Ewan McGregor: \"It was wonderful watching Tom who had never worked in front of a camera before, to see him really get it and grow as a film actor as he went along. He's really talented and polite to everyone. It's very easy for children to lose perspective but he's absolutely on the right road and a brilliant actor.\" Naomi Watts: \"He has an incredible emotional instrument and an unbelievable sense of himself... Tom Holland and I had a couple of moments where we came together and I could just tell how wonderful he was and what a beautiful instrument he had. It was just easy to work with him, that was one of the greatest highlights for me: discovering a friendship with Tom off-screen and this beautiful relationship between mother and son on-screen. The intimacy that develops through the course of the film between Lucas and Maria, I just loved that relationship. I mean, Tom is a beyond gifted actor. He's just a raw, open talent that is just so easy to work with. And Tom, he's inspiring, he kind of lifts everyone's game around him because he can do nothing but tell the truth. He was great.\"\n\nIn his turn, Tom Holland has returned favours to Naomi Watts when he was asked to present Desert Palm Achievement Award to her at Palm Springs International Film Festival. According to HitFix: \"One recurring theme of the night was how the introductions were often better than actual winner's speeches... The best intro, however, had to go to 16-year-old Tom Holland who intro'd his \"Impossible\" co-star Watts. Holland admitted of all of Watts' great performances his dad had only let him see \"King Kong\" and while they spent six weeks shooting in a water tank he didn't know it was \"difficult\" because he actually \"loved it\"... Most important, this was Holland's first film role and he sweetly noted, \"From the moment I met you, you took my hand and you never let go.\" Cue the \"awwww\" from the audience.\" The presentation is available on video.\n\nIn 2011, Holland was cast in British version of the animation film Arrietty, produced by Japan's cult Studio Ghibli. He has provided voice over for the principal character Sho. In 2012 Tom Holland played the starring role of Isaac in the film \"How I lived Now\", (directed by Kevin Macdonald) alongside Saoirse Ronan. The film was released in 2013.\n\nOn 17 October 2012, Holland became a recipient of Hollywood Spotlight Award for his role in The Impossible. \"We are very excited that we will be able to recognize acting talents that are on the road to discovery and stardom,\" said Carlos de Abreu, founder and executive director of the Hollywood Film Awards in a statement. On 6 December 2012 it was announced that Holland became a winner of the National Board of Review award in the \"Breakthrough Actor\" category. In the end of December 2012, Holland was voted a winner for the year's Best Youth Performance in Nevada Critics Awards.\n\nIn December 2012, Holland received a number of nominations for his role in The Impossible: for the 18th annual Critics' Choice Movie Awards, in the \"Best Young Acror/Acress\" category; for Chicago Film Critics Association Awards 2012 in the \"Most Promising Performer\" category; for the 27th Goya Awards in the \"Best New Actor\" category; for the Washington D.C. Area Film Critics Association Awards 2012 in the \"Best Youth Performance\" category; for the London Film Critics Circle Awards 2012 in the \"Young British Performer of the Year\" category.\n\nKristopher Tapley, Editor-at-Large of HitFix, reported on 27 August 2012 that Summit Entertainment, the company responsible for distribution of The Impossible in USA, would be campaigning Holland rather than McGregor as the lead, and strongly argued that Tom Holland deserved to be nominated for an Academy Award in the Best Actor category. The fact of long-listing for an Academy Award was confirmed in the article in the Hollywood Reporter: \"And though McGregor stars as his father in the film, Holland has been submitted as the lead actor for awards consideration. Regardless if he receives any nominations, his performance as the strong-willed and determined eldest son is garnering critical acclaim.\"\n\nAs one of the most promising young actors, Holland was featured in Screen International's \"UK Stars of Tomorrow - 2012\" and in Variety's \"Youth Impact Report 2012\". Holland has been signed up by William Morris Endeavor (WME) global talent agency and is represented by Curtis Brown literary and talent agency.\n\nIn 2015, Tom was cast as Peter Parker/Spider-Man in Sony and Marvel's films. He has played the role in Captain America: Civil War (2016), Spider-Man: Homecoming (2017), and Avengers: Infinity War (2018)."
+      }
+    ],
+    "filmography": [],
+    "actorsRelation": []
+  }
+}

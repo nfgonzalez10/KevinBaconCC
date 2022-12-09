@@ -1,0 +1,14 @@
+{
+  "name": "kevinbaconchallenge",
+  "version": "1.0.0",
+  "description": "Code challenge Kevin Bacon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Gonzalez (@nfgonzalez10)",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
